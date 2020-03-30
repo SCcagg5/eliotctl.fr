@@ -11,7 +11,7 @@ services:
       container_name: landing
       restart: always
       volumes:
-        - ./landing/front:/usr/share/nginx/html:ro
+        - ./landing/frontend:/usr/share/nginx/html:ro
         - ./landing/conf/landing.conf:/etc/nginx/conf.d/default.conf:ro
       links:
         - error
@@ -28,7 +28,7 @@ services:
       image: php:fpm-alpine
       container_name: php
       volumes:
-        - ./landing/front:/script:ro
+        - ./landing/frontend:/script:ro
         - ./admin/services/contact:/result
       networks:
         - proxy
