@@ -2060,6 +2060,15 @@ margin-top: 100px;
   }
 }
 
+@media (min-width: 1540px)
+{
+  .customcont {
+  margin-left: calc(50% - 478px);
+  }
+}
+
+
+
 @media (max-width: 992px) {
   .hide {
     display: none
