@@ -2089,8 +2089,17 @@ margin-top: 100px;
   position: relative; top: -100px; font-size: 17px; font-weight: 700;
 }
 
+.desc-perso {
+  margin-left: 20px;
+  width: 250px
+}
+
 @media (max-width: 600px) {
   .about--text {
     top: 0px;
+  }
+  .desc-perso {
+    width: unset;
+    font-size: smaller;
   }
 }
