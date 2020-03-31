@@ -2103,3 +2103,24 @@ margin-top: 100px;
     font-size: smaller;
   }
 }
+
+@media (max-width: 420px) {
+    .about--text {
+      font-size: small;
+    }
+
+    .about--banner h2 {
+    margin-top: 0;
+    font-size: 50px;
+    }
+
+    .about--banner h2::before {
+    top: 36px;
+    left: 265px;
+    }
+
+    .about--banner h2::after {
+    top: 185px;
+    left: 293px;
+    }
+}
