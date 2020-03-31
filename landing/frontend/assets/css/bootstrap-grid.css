@@ -2111,16 +2111,16 @@ margin-top: 100px;
 
     .about--banner h2 {
     margin-top: 0;
-    font-size: 50px;
+    font-size: 45px;
     }
 
     .about--banner h2::before {
-    top: 36px;
-    left: 265px;
+      top: 29px;
+      left: 236px;
     }
 
     .about--banner h2::after {
-    top: 185px;
-    left: 293px;
+      top: 165px;
+      left: 264px;
     }
 }
