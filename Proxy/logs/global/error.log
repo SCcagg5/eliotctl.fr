@@ -1,0 +1,1816 @@
+2020/06/01 16:21:29 [notice] 41#41: signal process started
+2020/06/01 16:21:33 [notice] 47#47: signal process started
+2020/06/01 16:21:46 [notice] 72#72: signal process started
+2020/06/01 16:23:29 [notice] 77#77: signal process started
+2020/06/01 16:40:42 [notice] 37#37: signal process started
+2020/06/01 16:40:45 [notice] 44#44: signal process started
+2020/06/01 16:40:45 [notice] 48#48: signal process started
+2020/06/01 16:40:48 [notice] 52#52: signal process started
+2020/06/01 16:40:51 [notice] 77#77: signal process started
+2020/06/01 16:44:17 [notice] 40#40: signal process started
+2020/06/01 16:44:18 [notice] 44#44: signal process started
+2020/06/01 16:44:45 [notice] 41#41: signal process started
+2020/06/01 16:44:46 [notice] 47#47: signal process started
+2020/06/01 16:44:50 [notice] 52#52: signal process started
+2020/06/01 16:45:03 [error] 73#73: *1 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 16:45:03 [error] 75#75: *2 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /robots.txt HTTP/1.1", upstream: "http://admin.localhost/robots.txt", host: "admin.localhost"
+2020/06/01 16:45:04 [error] 75#75: *2 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 16:45:07 [error] 75#75: *2 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 16:45:07 [error] 75#75: *2 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 16:45:50 [notice] 77#77: signal process started
+2020/06/01 16:45:51 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 16:45:51 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 16:45:52 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 16:45:52 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 16:46:08 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 16:46:08 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 16:46:54 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 16:46:54 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 16:46:59 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:46:59 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:47:01 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:47:01 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:47:02 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:47:02 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:47:02 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:47:03 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:47:03 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:47:03 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:47:03 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:47:03 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:47:03 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:47:03 [error] 79#79: *3 no live upstreams while connecting to upstream, client: 172.25.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:00 [notice] 40#40: signal process started
+2020/06/01 16:49:04 [notice] 46#46: signal process started
+2020/06/01 16:49:12 [notice] 44#44: signal process started
+2020/06/01 16:49:16 [notice] 52#52: signal process started
+2020/06/01 16:49:18 [notice] 79#79: signal process started
+2020/06/01 16:49:26 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:26 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:27 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:27 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:27 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:28 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:28 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:28 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:28 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:28 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:30 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:31 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:49:31 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:49:31 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:50:17 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:50:17 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:50:18 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:50:18 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:50:19 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:50:19 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:50:26 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:50:26 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:50:27 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:50:28 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:50:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 16:50:29 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 16:50:50 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /phpmyadmin/ HTTP/1.1", upstream: "http://admin.localhost/phpmyadmin/", host: "admin.localhost"
+2020/06/01 16:50:50 [error] 102#102: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/phpmyadmin/"
+2020/06/01 16:51:11 [notice] 105#105: signal process started
+2020/06/01 16:52:05 [notice] 110#110: signal process started
+2020/06/01 16:53:20 [notice] 114#114: signal process started
+2020/06/01 16:53:24 [notice] 118#118: signal process started
+2020/06/01 17:00:40 [notice] 41#41: signal process started
+2020/06/01 17:00:43 [notice] 47#47: signal process started
+2020/06/01 17:00:44 [notice] 51#51: signal process started
+2020/06/01 17:00:47 [notice] 55#55: signal process started
+2020/06/01 17:00:49 [notice] 81#81: signal process started
+2020/06/01 17:00:50 [notice] 106#106: signal process started
+2020/06/01 17:00:56 [error] 108#108: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /phpmyadmin/ HTTP/1.1", upstream: "http://admin.localhost/phpmyadmin/", host: "admin.localhost"
+2020/06/01 17:00:57 [error] 108#108: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/phpmyadmin/"
+2020/06/01 17:00:58 [error] 108#108: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:00:59 [error] 108#108: *1 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:02:21 [error] 108#108: *2 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:02:21 [error] 108#108: *2 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:02:26 [error] 108#108: *2 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 17:02:26 [error] 108#108: *2 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 17:02:28 [error] 108#108: *2 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 17:02:28 [error] 108#108: *2 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 17:04:59 [error] 108#108: *5 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 17:04:59 [error] 108#108: *5 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 17:05:02 [error] 108#108: *5 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:05:02 [error] 108#108: *5 no live upstreams while connecting to upstream, client: 172.23.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:07:39 [notice] 41#41: signal process started
+2020/06/01 17:07:40 [notice] 47#47: signal process started
+2020/06/01 17:07:44 [notice] 74#74: signal process started
+2020/06/01 17:07:55 [notice] 36#36: signal process started
+2020/06/01 17:07:56 [notice] 42#42: signal process started
+2020/06/01 17:07:57 [notice] 47#47: signal process started
+2020/06/01 17:07:57 [notice] 51#51: signal process started
+2020/06/01 17:08:00 [notice] 55#55: signal process started
+2020/06/01 17:08:01 [notice] 79#79: signal process started
+2020/06/01 17:08:18 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:08:18 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:08:20 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:08:21 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:08:22 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:08:22 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:08:23 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:08:24 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:08:28 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /test HTTP/1.1", upstream: "http://admin.localhost/test", host: "admin.localhost"
+2020/06/01 17:08:29 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/test"
+2020/06/01 17:08:34 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /elastic/ HTTP/1.1", upstream: "http://admin.localhost/elastic/", host: "admin.localhost"
+2020/06/01 17:08:34 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/elastic/"
+2020/06/01 17:09:36 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:09:37 [error] 100#100: *1 no live upstreams while connecting to upstream, client: 172.29.0.1, server: admin.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://admin.localhost/favicon.ico", host: "admin.localhost", referrer: "http://admin.localhost/"
+2020/06/01 17:12:32 [notice] 44#44: signal process started
+2020/06/01 17:12:34 [notice] 52#52: signal process started
+2020/06/01 17:12:56 [notice] 46#46: signal process started
+2020/06/01 17:12:57 [notice] 54#54: signal process started
+2020/06/01 17:13:02 [notice] 62#62: signal process started
+2020/06/01 17:13:04 [notice] 88#88: signal process started
+2020/06/01 17:15:55 [notice] 43#43: signal process started
+2020/06/01 17:15:57 [notice] 51#51: signal process started
+2020/06/01 17:16:03 [notice] 47#47: signal process started
+2020/06/01 17:16:07 [notice] 54#54: signal process started
+2020/06/01 17:16:09 [notice] 80#80: signal process started
+2020/06/01 17:17:37 [notice] 42#42: signal process started
+2020/06/01 17:17:38 [notice] 50#50: signal process started
+2020/06/01 17:17:45 [notice] 48#48: signal process started
+2020/06/01 17:17:49 [notice] 56#56: signal process started
+2020/06/01 17:17:51 [notice] 82#82: signal process started
+2020/06/01 17:18:18 [notice] 110#110: signal process started
+2020/06/01 17:22:00 [notice] 42#42: signal process started
+2020/06/01 17:22:01 [notice] 51#51: signal process started
+2020/06/01 17:22:08 [notice] 46#46: signal process started
+2020/06/01 17:22:12 [notice] 55#55: signal process started
+2020/06/01 17:22:14 [notice] 82#82: signal process started
+2020/06/01 17:22:24 [error] 103#103: *1 no live upstreams while connecting to upstream, client: 192.168.208.1, server: admin.localhost, request: "GET /elastic/app/kibana HTTP/1.1", upstream: "http://admin.localhost/elastic/app/kibana", host: "admin.localhost", referrer: "http://admin.localhost/elastic/app/kibana"
+2020/06/01 17:22:27 [error] 103#103: *1 no live upstreams while connecting to upstream, client: 192.168.208.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:22:29 [error] 103#103: *1 no live upstreams while connecting to upstream, client: 192.168.208.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:22:31 [error] 103#103: *1 no live upstreams while connecting to upstream, client: 192.168.208.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:22:33 [error] 103#103: *1 no live upstreams while connecting to upstream, client: 192.168.208.1, server: admin.localhost, request: "GET / HTTP/1.1", upstream: "http://admin.localhost/", host: "admin.localhost"
+2020/06/01 17:23:41 [notice] 43#43: signal process started
+2020/06/01 17:23:44 [notice] 51#51: signal process started
+2020/06/01 17:23:57 [notice] 49#49: signal process started
+2020/06/01 17:24:00 [notice] 57#57: signal process started
+2020/06/01 17:24:02 [notice] 84#84: signal process started
+2020/06/01 17:24:33 [notice] 112#112: signal process started
+2020/06/01 17:26:54 [notice] 43#43: signal process started
+2020/06/01 17:26:56 [notice] 51#51: signal process started
+2020/06/01 17:27:03 [notice] 48#48: signal process started
+2020/06/01 17:27:07 [notice] 56#56: signal process started
+2020/06/01 17:27:09 [notice] 83#83: signal process started
+2020/06/01 17:27:17 [notice] 110#110: signal process started
+2020/06/01 18:54:01 [notice] 42#42: signal process started
+2020/06/01 18:54:02 [notice] 50#50: signal process started
+2020/06/01 18:54:07 [notice] 49#49: signal process started
+2020/06/01 18:54:11 [notice] 55#55: signal process started
+2020/06/01 18:54:12 [notice] 81#81: signal process started
+2020/06/01 18:55:28 [notice] 110#110: signal process started
+2020/06/01 19:24:17 [notice] 41#41: signal process started
+2020/06/01 19:24:18 [notice] 47#47: signal process started
+2020/06/01 19:24:18 [notice] 74#74: signal process started
+2020/06/01 19:24:20 [notice] 40#40: signal process started
+2020/06/01 19:24:20 [notice] 46#46: signal process started
+2020/06/01 19:24:22 [notice] 54#54: signal process started
+2020/06/01 19:24:23 [notice] 81#81: signal process started
+2020/06/01 19:24:46 [notice] 107#107: signal process started
+2020/06/01 19:24:47 [notice] 113#113: signal process started
+2020/06/01 19:26:34 [notice] 119#119: signal process started
+2020/06/01 19:26:35 [notice] 124#124: signal process started
+2020/06/01 19:27:25 [notice] 129#129: signal process started
+2020/06/01 19:27:26 [notice] 134#134: signal process started
+2020/06/01 19:29:25 [notice] 139#139: signal process started
+2020/06/01 19:29:25 [notice] 144#144: signal process started
+2020/06/01 19:30:35 [notice] 149#149: signal process started
+2020/06/01 19:30:36 [notice] 154#154: signal process started
+2020/06/01 19:30:36 [notice] 159#159: signal process started
+2020/06/01 19:49:58 [notice] 164#164: signal process started
+2020/06/01 19:49:59 [notice] 169#169: signal process started
+2020/06/01 19:53:21 [notice] 174#174: signal process started
+2020/06/01 19:53:21 [notice] 179#179: signal process started
+2020/06/01 19:56:12 [notice] 184#184: signal process started
+2020/06/01 19:56:12 [notice] 189#189: signal process started
+2020/06/01 20:04:07 [notice] 194#194: signal process started
+2020/06/01 20:06:00 [notice] 199#199: signal process started
+2020/06/01 20:06:00 [notice] 205#205: signal process started
+2020/06/01 20:08:34 [notice] 210#210: signal process started
+2020/06/01 20:08:35 [notice] 215#215: signal process started
+2020/06/01 20:08:35 [notice] 220#220: signal process started
+2020/06/01 20:08:36 [notice] 225#225: signal process started
+2020/06/01 20:14:06 [notice] 230#230: signal process started
+2020/06/01 20:14:06 [notice] 235#235: signal process started
+2020/06/01 20:14:07 [notice] 240#240: signal process started
+2020/06/01 20:14:08 [notice] 245#245: signal process started
+2020/06/01 20:14:15 [notice] 250#250: signal process started
+2020/06/01 20:14:15 [notice] 255#255: signal process started
+2020/06/01 20:14:53 [notice] 260#260: signal process started
+2020/06/01 20:14:54 [notice] 265#265: signal process started
+2020/06/01 20:14:54 [notice] 270#270: signal process started
+2020/06/01 20:14:54 [notice] 275#275: signal process started
+2020/06/01 20:15:02 [notice] 280#280: signal process started
+2020/06/01 20:15:59 [notice] 285#285: signal process started
+2020/06/01 20:16:32 [notice] 290#290: signal process started
+2020/06/01 20:21:17 [notice] 295#295: signal process started
+2020/06/01 20:21:17 [notice] 300#300: signal process started
+2020/06/01 20:21:18 [notice] 305#305: signal process started
+2020/06/01 20:21:18 [notice] 310#310: signal process started
+2020/06/01 20:21:18 [notice] 315#315: signal process started
+2020/06/01 20:21:18 [notice] 316#316: signal process started
+2020/06/01 20:21:18 [notice] 325#325: signal process started
+2020/06/01 20:21:18 [notice] 330#330: signal process started
+2020/06/01 20:21:18 [notice] 335#335: signal process started
+2020/06/01 20:21:18 [notice] 336#336: signal process started
+2020/06/01 20:21:26 [notice] 345#345: signal process started
+2020/06/01 20:26:48 [notice] 350#350: signal process started
+2020/06/01 20:27:05 [notice] 356#356: signal process started
+2020/06/01 20:28:41 [notice] 361#361: signal process started
+2020/06/01 20:28:57 [notice] 366#366: signal process started
+2020/06/01 20:29:28 [notice] 371#371: signal process started
+2020/06/01 20:29:44 [notice] 376#376: signal process started
+2020/06/01 20:30:23 [notice] 381#381: signal process started
+2020/06/01 20:30:23 [notice] 386#386: signal process started
+2020/06/01 20:32:50 [notice] 391#391: signal process started
+2020/06/01 20:32:51 [notice] 396#396: signal process started
+2020/06/01 20:33:00 [notice] 401#401: signal process started
+2020/06/01 20:33:35 [notice] 406#406: signal process started
+2020/06/01 20:33:36 [notice] 411#411: signal process started
+2020/06/01 20:33:44 [notice] 416#416: signal process started
+2020/06/01 20:33:44 [notice] 421#421: signal process started
+2020/06/01 20:39:30 [notice] 426#426: signal process started
+2020/06/01 20:39:31 [notice] 431#431: signal process started
+2020/06/01 20:39:31 [notice] 436#436: signal process started
+2020/06/01 20:39:32 [notice] 441#441: signal process started
+2020/06/01 20:39:32 [notice] 446#446: signal process started
+2020/06/01 20:39:32 [notice] 451#451: signal process started
+2020/06/01 20:39:39 [notice] 456#456: signal process started
+2020/06/01 20:39:40 [notice] 461#461: signal process started
+2020/06/01 20:39:40 [notice] 466#466: signal process started
+2020/06/01 20:41:47 [notice] 471#471: signal process started
+2020/06/01 20:42:01 [notice] 476#476: signal process started
+2020/06/01 20:42:23 [notice] 481#481: signal process started
+2020/06/01 20:42:39 [notice] 486#486: signal process started
+2020/06/01 20:42:39 [notice] 491#491: signal process started
+2020/06/01 20:42:39 [notice] 496#496: signal process started
+2020/06/02 07:25:51 [notice] 38#38: signal process started
+2020/06/02 07:25:52 [notice] 51#51: signal process started
+2020/06/02 07:26:24 [notice] 79#79: signal process started
+2020/06/02 07:26:55 [notice] 89#89: signal process started
+2020/06/02 07:26:55 [notice] 95#95: signal process started
+2020/06/02 07:27:11 [notice] 101#101: signal process started
+2020/06/02 14:53:01 [notice] 36#36: signal process started
+2020/06/02 14:53:02 [notice] 49#49: signal process started
+2020/06/02 14:57:26 [notice] 77#77: signal process started
+2020/06/02 15:05:33 [notice] 39#39: signal process started
+2020/06/02 15:05:37 [notice] 47#47: signal process started
+2020/06/02 15:05:39 [notice] 56#56: signal process started
+2020/06/02 15:05:41 [notice] 62#62: signal process started
+2020/06/02 15:05:44 [notice] 68#68: signal process started
+2020/06/02 15:05:48 [notice] 95#95: signal process started
+2020/06/02 15:06:00 [notice] 123#123: signal process started
+2020/06/02 15:06:01 [notice] 129#129: signal process started
+2020/06/02 15:06:17 [warn] 132#132: *59 a client request body is buffered to a temporary file /var/cache/nginx/client_temp/0000000001, client: 172.18.0.1, server: meet.localhost, request: "POST /http-bind?room=fakepleassingapparently HTTP/1.1", host: "meet.localhost", referrer: "http://meet.localhost/FakePleasSingApparently"
+2020/06/02 15:07:39 [error] 131#131: *147 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:07:39 [warn] 131#131: *147 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:07:39 [error] 132#132: *149 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /robots.txt HTTP/1.1", upstream: "http://172.18.0.6:3000/robots.txt", host: "rocket.localhost"
+2020/06/02 15:07:39 [warn] 132#132: *149 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /robots.txt HTTP/1.1", upstream: "http://172.18.0.6:3000/robots.txt", host: "rocket.localhost"
+2020/06/02 15:07:39 [error] 131#131: *147 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:07:39 [error] 132#132: *149 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /robots.txt HTTP/1.1", upstream: "http://rocket.localhost/robots.txt", host: "rocket.localhost"
+2020/06/02 15:07:40 [error] 132#132: *149 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:07:53 [error] 132#132: *149 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:07:53 [warn] 132#132: *149 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:07:53 [error] 132#132: *149 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:07:53 [error] 132#132: *149 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:08:34 [notice] 135#135: signal process started
+2020/06/02 15:08:34 [notice] 140#140: signal process started
+2020/06/02 15:09:19 [notice] 145#145: signal process started
+2020/06/02 15:09:19 [notice] 150#150: signal process started
+2020/06/02 15:09:55 [notice] 155#155: signal process started
+2020/06/02 15:09:56 [notice] 160#160: signal process started
+2020/06/02 15:09:57 [notice] 165#165: signal process started
+2020/06/02 15:09:58 [error] 167#167: *153 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:09:58 [warn] 167#167: *153 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:09:58 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:09:58 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:09:58 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:09:58 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:09:59 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:09:59 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:09:59 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:09:59 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:00 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:00 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:00 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:00 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:01 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:01 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:01 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:01 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:02 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:02 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:02 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:02 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:02 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:02 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:06 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:06 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:07 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:07 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:10:09 [error] 167#167: *153 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:10:09 [warn] 167#167: *153 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:10:09 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:10:09 [error] 167#167: *153 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:12:36 [notice] 170#170: signal process started
+2020/06/02 15:12:41 [notice] 175#175: signal process started
+2020/06/02 15:13:02 [notice] 180#180: signal process started
+2020/06/02 15:13:02 [notice] 185#185: signal process started
+2020/06/02 15:13:37 [notice] 190#190: signal process started
+2020/06/02 15:14:37 [notice] 195#195: signal process started
+2020/06/02 15:15:38 [notice] 200#200: signal process started
+2020/06/02 15:16:11 [notice] 205#205: signal process started
+2020/06/02 15:16:11 [notice] 210#210: signal process started
+2020/06/02 15:17:39 [notice] 215#215: signal process started
+2020/06/02 15:17:39 [notice] 220#220: signal process started
+2020/06/02 15:18:40 [notice] 225#225: signal process started
+2020/06/02 15:18:40 [notice] 230#230: signal process started
+2020/06/02 15:19:30 [notice] 235#235: signal process started
+2020/06/02 15:19:31 [notice] 240#240: signal process started
+2020/06/02 15:19:41 [notice] 245#245: signal process started
+2020/06/02 15:19:41 [notice] 250#250: signal process started
+2020/06/02 15:20:41 [notice] 255#255: signal process started
+2020/06/02 15:22:34 [notice] 260#260: signal process started
+2020/06/02 15:22:36 [notice] 265#265: signal process started
+2020/06/02 15:23:43 [notice] 270#270: signal process started
+2020/06/02 15:23:43 [notice] 275#275: signal process started
+2020/06/02 15:24:43 [notice] 280#280: signal process started
+2020/06/02 15:24:43 [notice] 285#285: signal process started
+2020/06/02 15:25:27 [error] 287#287: *156 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:25:27 [warn] 287#287: *156 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:25:27 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:27 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:27 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:28 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:29 [error] 287#287: *156 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:29 [error] 287#287: *158 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:29 [error] 287#287: *159 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:29 [error] 287#287: *159 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:29 [error] 287#287: *158 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:29 [error] 287#287: *158 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:29 [error] 287#287: *158 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:25:29 [error] 287#287: *158 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:25:42 [notice] 290#290: signal process started
+2020/06/02 15:25:43 [notice] 295#295: signal process started
+2020/06/02 15:25:44 [notice] 300#300: signal process started
+2020/06/02 15:25:44 [notice] 305#305: signal process started
+2020/06/02 15:25:55 [notice] 310#310: signal process started
+2020/06/02 15:25:55 [notice] 315#315: signal process started
+2020/06/02 15:25:55 [notice] 320#320: signal process started
+2020/06/02 15:26:01 [notice] 325#325: signal process started
+2020/06/02 15:26:10 [notice] 330#330: signal process started
+2020/06/02 15:26:12 [notice] 335#335: signal process started
+2020/06/02 15:26:15 [notice] 340#340: signal process started
+2020/06/02 15:26:16 [notice] 345#345: signal process started
+2020/06/02 15:26:18 [notice] 350#350: signal process started
+2020/06/02 15:26:19 [notice] 355#355: signal process started
+2020/06/02 15:26:20 [notice] 360#360: signal process started
+2020/06/02 15:26:21 [notice] 365#365: signal process started
+2020/06/02 15:26:21 [notice] 370#370: signal process started
+2020/06/02 15:26:23 [notice] 375#375: signal process started
+2020/06/02 15:26:24 [notice] 380#380: signal process started
+2020/06/02 15:26:36 [notice] 385#385: signal process started
+2020/06/02 15:26:49 [notice] 390#390: signal process started
+2020/06/02 15:26:49 [notice] 395#395: signal process started
+2020/06/02 15:27:15 [notice] 400#400: signal process started
+2020/06/02 15:29:07 [notice] 405#405: signal process started
+2020/06/02 15:29:32 [notice] 410#410: signal process started
+2020/06/02 15:29:32 [notice] 415#415: signal process started
+2020/06/02 15:29:51 [error] 416#416: *160 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:29:51 [warn] 416#416: *160 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 15:29:51 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:29:51 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:29:55 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:29:55 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:29:55 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:29:55 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:29:56 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:29:56 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:29:56 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:29:56 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:29:57 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 15:29:57 [error] 416#416: *160 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 15:30:08 [notice] 420#420: signal process started
+2020/06/02 15:31:08 [notice] 425#425: signal process started
+2020/06/02 15:32:34 [notice] 430#430: signal process started
+2020/06/02 15:32:34 [notice] 435#435: signal process started
+2020/06/02 15:33:09 [notice] 440#440: signal process started
+2020/06/02 15:33:09 [notice] 445#445: signal process started
+2020/06/02 15:34:10 [notice] 450#450: signal process started
+2020/06/02 15:35:10 [notice] 455#455: signal process started
+2020/06/02 15:35:33 [notice] 460#460: signal process started
+2020/06/02 15:35:34 [notice] 465#465: signal process started
+2020/06/02 16:16:35 [notice] 37#37: signal process started
+2020/06/02 16:16:37 [notice] 51#51: signal process started
+2020/06/02 16:16:53 [notice] 78#78: signal process started
+2020/06/02 16:25:13 [notice] 85#85: signal process started
+2020/06/02 16:25:15 [notice] 90#90: signal process started
+2020/06/02 16:25:17 [notice] 95#95: signal process started
+2020/06/02 16:25:18 [notice] 103#103: signal process started
+2020/06/02 16:25:18 [notice] 108#108: signal process started
+2020/06/02 16:25:19 [notice] 113#113: signal process started
+2020/06/02 16:25:20 [notice] 118#118: signal process started
+2020/06/02 16:25:21 [notice] 123#123: signal process started
+2020/06/02 16:25:22 [notice] 128#128: signal process started
+2020/06/02 16:25:23 [notice] 133#133: signal process started
+2020/06/02 16:25:24 [notice] 138#138: signal process started
+2020/06/02 16:25:26 [notice] 143#143: signal process started
+2020/06/02 16:25:26 [notice] 148#148: signal process started
+2020/06/02 16:25:30 [notice] 153#153: signal process started
+2020/06/02 16:25:52 [notice] 158#158: signal process started
+2020/06/02 16:26:08 [notice] 163#163: signal process started
+2020/06/02 16:28:10 [notice] 190#190: signal process started
+2020/06/02 16:28:10 [notice] 195#195: signal process started
+2020/06/02 16:29:11 [notice] 200#200: signal process started
+2020/06/02 16:29:11 [notice] 205#205: signal process started
+2020/06/02 16:30:39 [notice] 42#42: signal process started
+2020/06/02 16:30:42 [notice] 50#50: signal process started
+2020/06/02 16:30:50 [notice] 78#78: signal process started
+2020/06/02 16:30:53 [notice] 85#85: signal process started
+2020/06/02 16:30:54 [notice] 91#91: signal process started
+2020/06/02 16:30:54 [notice] 97#97: signal process started
+2020/06/02 16:30:55 [notice] 104#104: signal process started
+2020/06/02 16:30:55 [notice] 110#110: signal process started
+2020/06/02 16:30:56 [notice] 116#116: signal process started
+2020/06/02 16:31:09 [notice] 122#122: signal process started
+2020/06/02 16:31:13 [error] 145#145: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 16:31:13 [warn] 145#145: *1 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.6:3000/", host: "rocket.localhost"
+2020/06/02 16:31:13 [error] 145#145: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 16:31:13 [error] 145#145: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 16:31:14 [error] 145#145: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET / HTTP/1.1", upstream: "http://rocket.localhost/", host: "rocket.localhost"
+2020/06/02 16:31:14 [error] 145#145: *1 no live upstreams while connecting to upstream, client: 172.18.0.1, server: rocket.localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://rocket.localhost/favicon.ico", host: "rocket.localhost", referrer: "http://rocket.localhost/"
+2020/06/02 16:32:07 [notice] 149#149: signal process started
+2020/06/02 16:33:51 [notice] 39#39: signal process started
+2020/06/02 16:33:53 [notice] 51#51: signal process started
+2020/06/02 16:34:14 [notice] 78#78: signal process started
+2020/06/02 16:34:56 [notice] 87#87: signal process started
+2020/06/02 16:34:59 [notice] 93#93: signal process started
+2020/06/02 16:35:05 [notice] 100#100: signal process started
+2020/06/02 16:35:05 [notice] 106#106: signal process started
+2020/06/02 16:35:21 [notice] 113#113: signal process started
+2020/06/02 16:35:33 [notice] 119#119: signal process started
+2020/06/02 16:35:34 [notice] 125#125: signal process started
+2020/06/02 16:35:49 [notice] 131#131: signal process started
+2020/06/02 16:36:00 [notice] 157#157: signal process started
+2020/06/02 16:36:00 [notice] 163#163: signal process started
+2020/06/02 16:36:51 [notice] 169#169: signal process started
+2020/06/02 16:36:51 [notice] 175#175: signal process started
+2020/06/02 16:37:52 [notice] 181#181: signal process started
+2020/06/02 16:37:52 [notice] 186#186: signal process started
+2020/06/02 16:38:13 [notice] 191#191: signal process started
+2020/06/02 16:38:14 [notice] 196#196: signal process started
+2020/06/02 16:39:53 [notice] 201#201: signal process started
+2020/06/02 16:39:53 [notice] 206#206: signal process started
+2020/06/02 16:41:13 [notice] 211#211: signal process started
+2020/06/02 16:41:14 [notice] 216#216: signal process started
+2020/06/02 16:41:54 [notice] 221#221: signal process started
+2020/06/02 16:41:54 [notice] 226#226: signal process started
+2020/06/02 16:44:15 [notice] 231#231: signal process started
+2020/06/02 16:44:15 [notice] 236#236: signal process started
+2020/06/02 16:44:55 [notice] 241#241: signal process started
+2020/06/02 16:45:55 [notice] 246#246: signal process started
+2020/06/02 16:47:17 [notice] 251#251: signal process started
+2020/06/02 16:47:17 [notice] 256#256: signal process started
+2020/06/02 16:47:57 [notice] 261#261: signal process started
+2020/06/02 16:48:57 [notice] 266#266: signal process started
+2020/06/02 16:50:19 [notice] 271#271: signal process started
+2020/06/02 16:50:19 [notice] 276#276: signal process started
+2020/06/05 11:44:48 [notice] 38#38: signal process started
+2020/06/05 11:44:48 [error] 38#38: open() "/var/run/nginx.pid" failed (2: No such file or directory)
+2020/06/05 11:44:49 [notice] 48#48: signal process started
+2020/06/05 11:44:50 [notice] 55#55: signal process started
+2020/06/05 11:45:58 [notice] 81#81: signal process started
+2020/06/05 11:45:58 [notice] 86#86: signal process started
+2020/06/05 11:45:58 [notice] 91#91: signal process started
+2020/06/05 11:45:58 [notice] 98#98: signal process started
+2020/06/05 11:46:13 [notice] 103#103: signal process started
+2020/06/05 14:37:19 [notice] 37#37: signal process started
+2020/06/05 14:37:19 [notice] 50#50: signal process started
+2020/06/05 14:37:34 [notice] 77#77: signal process started
+2020/06/05 14:41:25 [notice] 86#86: signal process started
+2020/06/05 14:41:25 [notice] 91#91: signal process started
+2020/06/05 14:41:41 [notice] 96#96: signal process started
+2020/06/07 14:15:37 [notice] 33#33: signal process started
+2020/06/07 14:15:38 [notice] 47#47: signal process started
+2020/06/07 14:15:39 [notice] 53#53: signal process started
+2020/06/07 14:15:39 [notice] 59#59: signal process started
+2020/06/07 14:15:40 [notice] 65#65: signal process started
+2020/06/07 14:15:40 [notice] 71#71: signal process started
+2020/06/07 14:15:41 [notice] 77#77: signal process started
+2020/06/07 14:15:41 [notice] 83#83: signal process started
+2020/06/07 14:15:42 [notice] 89#89: signal process started
+2020/06/07 14:15:43 [notice] 95#95: signal process started
+2020/06/07 14:15:44 [notice] 101#101: signal process started
+2020/06/07 14:15:45 [notice] 107#107: signal process started
+2020/06/07 14:15:48 [notice] 113#113: signal process started
+2020/06/07 14:15:48 [notice] 119#119: signal process started
+2020/06/07 14:15:55 [notice] 125#125: signal process started
+2020/06/07 14:15:55 [notice] 131#131: signal process started
+2020/06/07 14:16:08 [notice] 137#137: signal process started
+2020/06/07 14:16:08 [notice] 143#143: signal process started
+2020/06/07 14:16:34 [notice] 149#149: signal process started
+2020/06/07 14:16:34 [notice] 155#155: signal process started
+2020/06/07 14:17:25 [notice] 161#161: signal process started
+2020/06/07 14:17:26 [notice] 167#167: signal process started
+2020/06/07 14:18:26 [notice] 173#173: signal process started
+2020/06/07 14:18:26 [notice] 178#178: signal process started
+2020/06/07 14:19:26 [notice] 183#183: signal process started
+2020/06/07 14:19:26 [notice] 188#188: signal process started
+2020/06/07 14:20:26 [notice] 193#193: signal process started
+2020/06/07 14:20:27 [notice] 198#198: signal process started
+2020/06/07 14:21:27 [notice] 204#204: signal process started
+2020/06/07 14:21:27 [notice] 209#209: signal process started
+2020/06/07 14:22:27 [notice] 214#214: signal process started
+2020/06/07 14:22:27 [notice] 219#219: signal process started
+2020/06/07 14:23:28 [notice] 224#224: signal process started
+2020/06/07 14:23:28 [notice] 229#229: signal process started
+2020/06/07 14:24:28 [notice] 234#234: signal process started
+2020/06/07 14:24:28 [notice] 239#239: signal process started
+2020/06/07 14:25:28 [notice] 244#244: signal process started
+2020/06/07 14:25:28 [notice] 249#249: signal process started
+2020/06/07 14:26:29 [notice] 254#254: signal process started
+2020/06/07 14:26:29 [notice] 259#259: signal process started
+2020/06/07 14:27:29 [notice] 264#264: signal process started
+2020/06/07 14:27:29 [notice] 269#269: signal process started
+2020/06/07 14:28:29 [notice] 274#274: signal process started
+2020/06/07 14:28:30 [notice] 279#279: signal process started
+2020/06/07 14:29:30 [notice] 284#284: signal process started
+2020/06/07 14:29:30 [notice] 289#289: signal process started
+2020/06/07 14:30:30 [notice] 294#294: signal process started
+2020/06/07 14:30:30 [notice] 299#299: signal process started
+2020/06/07 14:31:30 [notice] 304#304: signal process started
+2020/06/07 14:31:30 [notice] 309#309: signal process started
+2020/06/07 14:32:31 [notice] 314#314: signal process started
+2020/06/07 14:32:31 [notice] 319#319: signal process started
+2020/06/07 14:33:31 [notice] 324#324: signal process started
+2020/06/07 14:33:31 [notice] 329#329: signal process started
+2020/06/07 14:34:31 [notice] 334#334: signal process started
+2020/06/07 14:34:31 [notice] 339#339: signal process started
+2020/06/07 14:35:32 [notice] 344#344: signal process started
+2020/06/07 14:35:32 [notice] 349#349: signal process started
+2020/06/07 14:36:32 [notice] 354#354: signal process started
+2020/06/07 14:36:32 [notice] 359#359: signal process started
+2020/06/07 14:37:32 [notice] 364#364: signal process started
+2020/06/07 14:37:33 [notice] 369#369: signal process started
+2020/06/07 14:38:33 [notice] 374#374: signal process started
+2020/06/07 14:38:33 [notice] 379#379: signal process started
+2020/06/07 14:39:33 [notice] 384#384: signal process started
+2020/06/07 14:39:33 [notice] 389#389: signal process started
+2020/06/07 14:40:33 [notice] 394#394: signal process started
+2020/06/07 14:40:33 [notice] 399#399: signal process started
+2020/06/07 14:41:34 [notice] 404#404: signal process started
+2020/06/07 14:41:34 [notice] 409#409: signal process started
+2020/06/07 14:42:34 [notice] 414#414: signal process started
+2020/06/07 14:42:34 [notice] 419#419: signal process started
+2020/06/07 14:43:34 [notice] 424#424: signal process started
+2020/06/07 14:43:35 [notice] 429#429: signal process started
+2020/06/07 14:44:35 [notice] 434#434: signal process started
+2020/06/07 14:44:35 [notice] 439#439: signal process started
+2020/06/07 14:45:35 [notice] 444#444: signal process started
+2020/06/07 14:45:35 [notice] 449#449: signal process started
+2020/06/07 14:46:35 [notice] 454#454: signal process started
+2020/06/07 14:46:36 [notice] 459#459: signal process started
+2020/06/07 14:47:36 [notice] 464#464: signal process started
+2020/06/07 14:47:36 [notice] 469#469: signal process started
+2020/06/07 14:48:36 [notice] 474#474: signal process started
+2020/06/07 14:48:36 [notice] 479#479: signal process started
+2020/06/07 14:50:04 [notice] 44#44: signal process started
+2020/06/07 14:50:06 [notice] 53#53: signal process started
+2020/06/07 14:50:17 [notice] 81#81: signal process started
+2020/06/07 14:50:20 [notice] 87#87: signal process started
+2020/06/07 14:50:21 [notice] 93#93: signal process started
+2020/06/07 14:50:22 [notice] 99#99: signal process started
+2020/06/07 14:50:25 [notice] 105#105: signal process started
+2020/06/07 14:50:27 [notice] 111#111: signal process started
+2020/06/07 14:50:27 [notice] 118#118: signal process started
+2020/06/07 14:50:28 [notice] 124#124: signal process started
+2020/06/07 14:50:29 [notice] 130#130: signal process started
+2020/06/07 14:50:29 [notice] 136#136: signal process started
+2020/06/07 14:50:30 [notice] 142#142: signal process started
+2020/06/07 14:50:30 [notice] 148#148: signal process started
+2020/06/07 14:50:31 [notice] 154#154: signal process started
+2020/06/07 14:50:31 [notice] 160#160: signal process started
+2020/06/07 14:50:33 [notice] 166#166: signal process started
+2020/06/07 14:50:34 [notice] 173#173: signal process started
+2020/06/07 14:50:34 [notice] 179#179: signal process started
+2020/06/07 14:50:35 [notice] 180#180: signal process started
+2020/06/07 14:50:35 [notice] 191#191: signal process started
+2020/06/07 14:50:40 [notice] 197#197: signal process started
+2020/06/07 14:50:41 [notice] 203#203: signal process started
+2020/06/07 14:50:54 [notice] 210#210: signal process started
+2020/06/07 14:50:55 [notice] 216#216: signal process started
+2020/06/07 14:51:22 [notice] 222#222: signal process started
+2020/06/07 14:52:14 [notice] 228#228: signal process started
+2020/06/07 14:52:15 [notice] 234#234: signal process started
+2020/06/07 14:53:01 [notice] 241#241: signal process started
+2020/06/07 14:54:16 [notice] 248#248: signal process started
+2020/06/07 14:54:32 [notice] 253#253: signal process started
+2020/06/07 14:54:33 [notice] 258#258: signal process started
+2020/06/07 14:54:51 [notice] 263#263: signal process started
+2020/06/07 14:54:52 [notice] 268#268: signal process started
+2020/06/07 14:54:53 [notice] 273#273: signal process started
+2020/06/07 14:55:16 [notice] 278#278: signal process started
+2020/06/07 14:55:16 [notice] 283#283: signal process started
+2020/06/07 14:55:46 [notice] 288#288: signal process started
+2020/06/07 14:56:17 [notice] 293#293: signal process started
+2020/06/07 14:57:03 [notice] 298#298: signal process started
+2020/06/07 14:57:04 [notice] 303#303: signal process started
+2020/06/07 14:57:21 [notice] 308#308: signal process started
+2020/06/07 14:57:23 [notice] 313#313: signal process started
+2020/06/07 14:57:38 [notice] 318#318: signal process started
+2020/06/07 14:57:41 [notice] 323#323: signal process started
+2020/06/07 14:57:42 [notice] 328#328: signal process started
+2020/06/07 14:57:47 [notice] 333#333: signal process started
+2020/06/07 14:58:18 [notice] 338#338: signal process started
+2020/06/07 14:58:18 [notice] 343#343: signal process started
+2020/06/07 14:58:25 [notice] 348#348: signal process started
+2020/06/07 14:58:25 [notice] 353#353: signal process started
+2020/06/07 14:58:25 [notice] 358#358: signal process started
+2020/06/07 14:58:27 [notice] 363#363: signal process started
+2020/06/07 14:58:49 [notice] 368#368: signal process started
+2020/06/07 14:58:52 [notice] 373#373: signal process started
+2020/06/07 15:00:06 [notice] 378#378: signal process started
+2020/06/07 15:00:07 [notice] 383#383: signal process started
+2020/06/07 15:00:44 [notice] 388#388: signal process started
+2020/06/07 15:00:45 [notice] 393#393: signal process started
+2020/06/07 15:01:19 [notice] 398#398: signal process started
+2020/06/07 15:01:19 [notice] 403#403: signal process started
+2020/06/07 15:02:19 [notice] 408#408: signal process started
+2020/06/07 15:02:20 [notice] 413#413: signal process started
+2020/06/07 15:03:42 [notice] 418#418: signal process started
+2020/06/07 15:03:43 [notice] 423#423: signal process started
+2020/06/07 15:04:20 [notice] 428#428: signal process started
+2020/06/07 15:04:20 [notice] 433#433: signal process started
+2020/06/07 15:05:21 [notice] 438#438: signal process started
+2020/06/07 15:05:21 [notice] 443#443: signal process started
+2020/06/07 15:06:21 [notice] 448#448: signal process started
+2020/06/07 15:06:40 [notice] 453#453: signal process started
+2020/06/07 15:06:41 [notice] 458#458: signal process started
+2020/06/07 15:08:22 [notice] 463#463: signal process started
+2020/06/07 15:09:22 [notice] 468#468: signal process started
+2020/06/07 15:09:23 [notice] 473#473: signal process started
+2020/06/07 15:09:38 [notice] 478#478: signal process started
+2020/06/07 15:09:38 [notice] 483#483: signal process started
+2020/06/07 15:12:24 [notice] 488#488: signal process started
+2020/06/07 15:12:24 [notice] 493#493: signal process started
+2020/06/07 15:12:36 [notice] 498#498: signal process started
+2020/06/07 15:12:37 [notice] 503#503: signal process started
+2020/06/07 15:13:24 [notice] 508#508: signal process started
+2020/06/07 15:15:25 [notice] 513#513: signal process started
+2020/06/07 15:15:25 [notice] 518#518: signal process started
+2020/06/07 15:15:34 [notice] 523#523: signal process started
+2020/06/07 15:15:35 [notice] 528#528: signal process started
+2020/06/07 15:18:26 [notice] 533#533: signal process started
+2020/06/07 15:18:35 [notice] 538#538: signal process started
+2020/06/07 15:18:36 [notice] 543#543: signal process started
+2020/06/07 15:20:27 [notice] 548#548: signal process started
+2020/06/07 15:21:28 [notice] 553#553: signal process started
+2020/06/07 15:21:34 [notice] 558#558: signal process started
+2020/06/07 15:21:34 [notice] 563#563: signal process started
+2020/06/07 15:22:28 [notice] 568#568: signal process started
+2020/06/07 15:23:28 [notice] 573#573: signal process started
+2020/06/07 15:23:29 [notice] 578#578: signal process started
+2020/06/07 15:24:36 [notice] 583#583: signal process started
+2020/06/07 15:24:36 [notice] 588#588: signal process started
+2020/06/07 15:25:29 [notice] 593#593: signal process started
+2020/06/07 15:25:30 [notice] 598#598: signal process started
+2020/06/07 15:27:34 [notice] 603#603: signal process started
+2020/06/07 15:27:35 [notice] 608#608: signal process started
+2020/06/07 15:29:31 [notice] 613#613: signal process started
+2020/06/07 15:30:32 [notice] 618#618: signal process started
+2020/06/07 15:30:32 [notice] 623#623: signal process started
+2020/06/07 15:30:33 [notice] 628#628: signal process started
+2020/06/07 15:32:32 [notice] 633#633: signal process started
+2020/06/07 15:32:33 [notice] 638#638: signal process started
+2020/06/07 15:33:31 [notice] 643#643: signal process started
+2020/06/07 15:33:31 [notice] 648#648: signal process started
+2020/06/07 15:35:34 [notice] 653#653: signal process started
+2020/06/07 15:36:29 [notice] 658#658: signal process started
+2020/06/07 15:36:29 [notice] 663#663: signal process started
+2020/06/07 15:38:35 [notice] 668#668: signal process started
+2020/06/07 15:39:30 [notice] 673#673: signal process started
+2020/06/07 15:39:31 [notice] 678#678: signal process started
+2020/06/07 15:39:35 [notice] 683#683: signal process started
+2020/06/07 15:39:36 [notice] 688#688: signal process started
+2020/06/07 15:42:32 [notice] 693#693: signal process started
+2020/06/07 15:42:32 [notice] 698#698: signal process started
+2020/06/07 15:42:37 [notice] 703#703: signal process started
+2020/06/07 15:43:37 [notice] 708#708: signal process started
+2020/06/07 15:44:38 [notice] 713#713: signal process started
+2020/06/07 15:44:38 [notice] 718#718: signal process started
+2020/06/07 15:45:33 [notice] 723#723: signal process started
+2020/06/07 15:45:34 [notice] 728#728: signal process started
+2020/06/07 15:45:38 [notice] 733#733: signal process started
+2020/06/07 15:46:39 [notice] 738#738: signal process started
+2020/06/07 15:47:39 [notice] 743#743: signal process started
+2020/06/07 15:48:32 [notice] 748#748: signal process started
+2020/06/07 15:48:32 [notice] 753#753: signal process started
+2020/06/07 15:48:39 [notice] 758#758: signal process started
+2020/06/07 15:48:40 [notice] 763#763: signal process started
+2020/06/07 15:49:40 [notice] 768#768: signal process started
+2020/06/07 15:50:41 [notice] 773#773: signal process started
+2020/06/07 15:51:29 [notice] 778#778: signal process started
+2020/06/07 15:51:30 [notice] 783#783: signal process started
+2020/06/07 15:51:41 [notice] 788#788: signal process started
+2020/06/07 15:51:41 [notice] 793#793: signal process started
+2020/06/07 15:52:41 [notice] 798#798: signal process started
+2020/06/07 15:52:42 [notice] 803#803: signal process started
+2020/06/07 15:53:42 [notice] 808#808: signal process started
+2020/06/07 15:53:42 [notice] 813#813: signal process started
+2020/06/07 15:54:28 [notice] 818#818: signal process started
+2020/06/07 15:54:28 [notice] 823#823: signal process started
+2020/06/07 15:54:42 [notice] 828#828: signal process started
+2020/06/07 15:54:42 [notice] 833#833: signal process started
+2020/06/07 15:55:43 [notice] 838#838: signal process started
+2020/06/07 15:55:43 [notice] 843#843: signal process started
+2020/06/07 15:57:26 [notice] 848#848: signal process started
+2020/06/07 15:57:26 [notice] 853#853: signal process started
+2020/06/07 15:57:43 [notice] 858#858: signal process started
+2020/06/07 15:57:44 [notice] 863#863: signal process started
+2020/06/07 15:58:44 [notice] 868#868: signal process started
+2020/06/07 15:58:44 [notice] 873#873: signal process started
+2020/06/07 16:00:24 [notice] 878#878: signal process started
+2020/06/07 16:00:25 [notice] 883#883: signal process started
+2020/06/07 16:00:45 [notice] 888#888: signal process started
+2020/06/07 16:03:22 [notice] 893#893: signal process started
+2020/06/07 16:03:23 [notice] 898#898: signal process started
+2020/06/07 16:03:46 [notice] 903#903: signal process started
+2020/06/07 16:03:46 [notice] 908#908: signal process started
+2020/06/07 16:04:48 [notice] 913#913: signal process started
+2020/06/07 16:05:48 [notice] 918#918: signal process started
+2020/06/07 16:05:48 [notice] 923#923: signal process started
+2020/06/07 16:06:27 [notice] 928#928: signal process started
+2020/06/07 16:06:27 [notice] 933#933: signal process started
+2020/06/07 16:06:48 [notice] 938#938: signal process started
+2020/06/07 16:06:48 [notice] 943#943: signal process started
+2020/06/07 16:09:30 [notice] 948#948: signal process started
+2020/06/07 16:09:31 [notice] 953#953: signal process started
+2020/06/07 16:09:49 [notice] 958#958: signal process started
+2020/06/07 16:09:50 [notice] 963#963: signal process started
+2020/06/07 16:10:50 [notice] 968#968: signal process started
+2020/06/07 16:11:51 [notice] 973#973: signal process started
+2020/06/07 16:12:37 [notice] 978#978: signal process started
+2020/06/07 16:12:38 [notice] 983#983: signal process started
+2020/06/07 16:12:51 [notice] 988#988: signal process started
+2020/06/07 16:12:51 [notice] 993#993: signal process started
+2020/06/07 16:13:51 [notice] 998#998: signal process started
+2020/06/07 16:13:52 [notice] 1003#1003: signal process started
+2020/06/07 16:14:52 [notice] 1008#1008: signal process started
+2020/06/07 16:15:39 [notice] 1013#1013: signal process started
+2020/06/07 16:15:40 [notice] 1018#1018: signal process started
+2020/06/07 16:15:53 [notice] 1023#1023: signal process started
+2020/06/07 16:16:53 [notice] 1028#1028: signal process started
+2020/06/07 16:17:54 [notice] 1033#1033: signal process started
+2020/06/07 16:18:38 [notice] 1038#1038: signal process started
+2020/06/07 16:18:38 [notice] 1043#1043: signal process started
+2020/06/07 16:18:54 [notice] 1048#1048: signal process started
+2020/06/07 16:18:54 [notice] 1053#1053: signal process started
+2020/06/07 16:19:55 [notice] 1058#1058: signal process started
+2020/06/07 16:20:55 [notice] 1063#1063: signal process started
+2020/06/07 16:20:55 [notice] 1068#1068: signal process started
+2020/06/07 16:21:36 [notice] 1073#1073: signal process started
+2020/06/07 16:21:36 [notice] 1078#1078: signal process started
+2020/06/07 16:21:56 [notice] 1083#1083: signal process started
+2020/06/07 16:22:56 [notice] 1088#1088: signal process started
+2020/06/07 16:23:56 [notice] 1093#1093: signal process started
+2020/06/07 16:24:35 [notice] 1098#1098: signal process started
+2020/06/07 16:24:35 [notice] 1103#1103: signal process started
+2020/06/07 16:24:57 [notice] 1108#1108: signal process started
+2020/06/07 16:25:57 [notice] 1113#1113: signal process started
+2020/06/07 16:25:58 [notice] 1118#1118: signal process started
+2020/06/07 16:26:47 [notice] 1123#1123: signal process started
+2020/06/07 16:26:49 [notice] 1128#1128: signal process started
+2020/06/07 16:26:58 [notice] 1133#1133: signal process started
+2020/06/07 16:27:34 [notice] 1138#1138: signal process started
+2020/06/07 16:27:35 [notice] 1143#1143: signal process started
+2020/06/07 16:27:58 [notice] 1148#1148: signal process started
+2020/06/07 16:28:59 [notice] 1153#1153: signal process started
+2020/06/07 16:28:59 [notice] 1158#1158: signal process started
+2020/06/07 16:29:32 [notice] 1163#1163: signal process started
+2020/06/07 16:29:33 [notice] 1168#1168: signal process started
+2020/06/07 16:29:59 [notice] 1173#1173: signal process started
+2020/06/07 16:30:00 [notice] 1178#1178: signal process started
+2020/06/07 16:30:34 [notice] 1183#1183: signal process started
+2020/06/07 16:30:35 [notice] 1188#1188: signal process started
+2020/06/07 16:30:36 [notice] 1193#1193: signal process started
+2020/06/07 16:30:36 [notice] 1198#1198: signal process started
+2020/06/07 16:31:00 [notice] 1203#1203: signal process started
+2020/06/07 16:32:00 [notice] 1208#1208: signal process started
+2020/06/07 16:32:01 [notice] 1213#1213: signal process started
+2020/06/07 16:33:36 [notice] 1218#1218: signal process started
+2020/06/07 16:33:36 [notice] 1223#1223: signal process started
+2020/06/07 16:34:01 [notice] 1228#1228: signal process started
+2020/06/07 16:35:02 [notice] 1233#1233: signal process started
+2020/06/07 16:35:02 [notice] 1238#1238: signal process started
+2020/06/07 16:36:02 [notice] 1243#1243: signal process started
+2020/06/07 16:36:02 [notice] 1248#1248: signal process started
+2020/06/07 16:36:34 [notice] 1253#1253: signal process started
+2020/06/07 16:36:35 [notice] 1258#1258: signal process started
+2020/06/07 16:37:03 [notice] 1263#1263: signal process started
+2020/06/07 16:38:03 [notice] 1268#1268: signal process started
+2020/06/07 16:38:03 [notice] 1273#1273: signal process started
+2020/06/07 16:39:19 [notice] 1278#1278: signal process started
+2020/06/07 16:39:21 [notice] 1283#1283: signal process started
+2020/06/07 16:39:34 [notice] 1288#1288: signal process started
+2020/06/07 16:39:34 [notice] 1293#1293: signal process started
+2020/06/07 16:40:08 [notice] 1298#1298: signal process started
+2020/06/07 16:40:10 [notice] 1303#1303: signal process started
+2020/06/07 16:40:47 [notice] 1308#1308: signal process started
+2020/06/07 16:40:49 [notice] 1313#1313: signal process started
+2020/06/07 16:41:05 [notice] 1318#1318: signal process started
+2020/06/07 16:41:24 [notice] 1323#1323: signal process started
+2020/06/07 16:41:26 [notice] 1328#1328: signal process started
+2020/06/07 16:42:36 [notice] 1333#1333: signal process started
+2020/06/07 16:42:37 [notice] 1338#1338: signal process started
+2020/06/07 16:43:05 [notice] 1343#1343: signal process started
+2020/06/07 16:43:06 [notice] 1348#1348: signal process started
+2020/06/07 16:44:06 [notice] 1353#1353: signal process started
+2020/06/07 16:45:06 [notice] 1358#1358: signal process started
+2020/06/07 16:45:07 [notice] 1363#1363: signal process started
+2020/06/07 16:45:38 [notice] 1368#1368: signal process started
+2020/06/07 16:45:38 [notice] 1373#1373: signal process started
+2020/06/07 16:46:07 [notice] 1378#1378: signal process started
+2020/06/07 16:46:08 [notice] 1383#1383: signal process started
+2020/06/07 16:46:10 [notice] 1388#1388: signal process started
+2020/06/07 16:47:07 [notice] 1393#1393: signal process started
+2020/06/07 16:48:08 [notice] 1398#1398: signal process started
+2020/06/07 16:48:41 [notice] 1403#1403: signal process started
+2020/06/07 16:48:42 [notice] 1408#1408: signal process started
+2020/06/07 16:49:03 [notice] 1413#1413: signal process started
+2020/06/07 16:49:08 [notice] 1418#1418: signal process started
+2020/06/07 16:50:09 [notice] 1423#1423: signal process started
+2020/06/07 16:51:09 [notice] 1428#1428: signal process started
+2020/06/07 16:51:09 [notice] 1433#1433: signal process started
+2020/06/07 16:51:41 [notice] 1438#1438: signal process started
+2020/06/07 16:51:41 [notice] 1443#1443: signal process started
+2020/06/07 16:52:10 [notice] 1448#1448: signal process started
+2020/06/07 16:52:10 [notice] 1453#1453: signal process started
+2020/06/07 16:53:10 [notice] 1458#1458: signal process started
+2020/06/07 16:53:10 [notice] 1463#1463: signal process started
+2020/06/07 16:54:41 [notice] 1468#1468: signal process started
+2020/06/07 16:54:41 [notice] 1473#1473: signal process started
+2020/06/07 16:55:11 [notice] 1478#1478: signal process started
+2020/06/07 16:55:11 [notice] 1483#1483: signal process started
+2020/06/07 16:56:11 [notice] 1488#1488: signal process started
+2020/06/07 16:56:12 [notice] 1493#1493: signal process started
+2020/06/07 16:57:12 [notice] 1498#1498: signal process started
+2020/06/07 16:57:42 [notice] 1503#1503: signal process started
+2020/06/07 16:57:43 [notice] 1508#1508: signal process started
+2020/06/07 16:58:12 [notice] 1513#1513: signal process started
+2020/06/07 16:58:13 [notice] 1518#1518: signal process started
+2020/06/07 16:59:13 [notice] 1523#1523: signal process started
+2020/06/07 16:59:13 [notice] 1528#1528: signal process started
+2020/06/07 16:59:55 [notice] 1533#1533: signal process started
+2020/06/07 16:59:56 [notice] 1538#1538: signal process started
+2020/06/07 16:59:56 [notice] 1543#1543: signal process started
+2020/06/07 16:59:58 [notice] 1548#1548: signal process started
+2020/06/07 17:00:19 [notice] 1553#1553: signal process started
+2020/06/07 17:00:22 [notice] 1558#1558: signal process started
+2020/06/07 17:00:46 [notice] 1563#1563: signal process started
+2020/06/07 17:00:46 [notice] 1568#1568: signal process started
+2020/06/07 17:01:19 [notice] 1573#1573: signal process started
+2020/06/07 17:02:14 [notice] 1578#1578: signal process started
+2020/06/07 17:03:47 [notice] 1583#1583: signal process started
+2020/06/07 17:03:47 [notice] 1588#1588: signal process started
+2020/06/07 17:04:15 [notice] 1593#1593: signal process started
+2020/06/07 17:04:40 [notice] 1598#1598: signal process started
+2020/06/07 17:04:40 [notice] 1603#1603: signal process started
+2020/06/07 17:04:41 [notice] 1608#1608: signal process started
+2020/06/07 17:05:16 [notice] 1613#1613: signal process started
+2020/06/07 17:06:17 [notice] 1618#1618: signal process started
+2020/06/07 17:06:17 [notice] 1623#1623: signal process started
+2020/06/07 17:06:51 [notice] 1628#1628: signal process started
+2020/06/07 17:06:52 [notice] 1633#1633: signal process started
+2020/06/07 17:06:52 [notice] 1638#1638: signal process started
+2020/06/07 17:06:53 [notice] 1643#1643: signal process started
+2020/06/07 17:06:56 [notice] 1648#1648: signal process started
+2020/06/07 17:07:17 [notice] 1653#1653: signal process started
+2020/06/07 17:07:17 [notice] 1658#1658: signal process started
+2020/06/07 17:09:18 [notice] 1663#1663: signal process started
+2020/06/07 17:09:56 [notice] 1668#1668: signal process started
+2020/06/07 17:09:57 [notice] 1673#1673: signal process started
+2020/06/07 17:12:19 [notice] 1678#1678: signal process started
+2020/06/07 17:12:20 [notice] 1683#1683: signal process started
+2020/06/07 17:13:00 [notice] 1688#1688: signal process started
+2020/06/07 17:13:01 [notice] 1693#1693: signal process started
+2020/06/07 17:13:20 [notice] 1698#1698: signal process started
+2020/06/07 17:13:46 [notice] 1703#1703: signal process started
+2020/06/07 17:14:20 [notice] 1708#1708: signal process started
+2020/06/07 17:14:21 [notice] 1713#1713: signal process started
+2020/06/07 17:14:58 [notice] 1718#1718: signal process started
+2020/06/07 17:14:58 [notice] 1723#1723: signal process started
+2020/06/07 17:15:01 [notice] 1728#1728: signal process started
+2020/06/07 17:16:07 [notice] 1733#1733: signal process started
+2020/06/07 17:16:08 [notice] 1738#1738: signal process started
+2020/06/07 17:16:22 [notice] 1743#1743: signal process started
+2020/06/07 17:16:22 [notice] 1748#1748: signal process started
+2020/06/07 17:17:22 [notice] 1753#1753: signal process started
+2020/06/07 17:18:22 [notice] 1758#1758: signal process started
+2020/06/07 17:19:11 [notice] 1763#1763: signal process started
+2020/06/07 17:19:12 [notice] 1768#1768: signal process started
+2020/06/07 17:19:23 [notice] 1773#1773: signal process started
+2020/06/07 17:20:23 [notice] 1778#1778: signal process started
+2020/06/07 17:20:24 [notice] 1783#1783: signal process started
+2020/06/07 17:21:24 [notice] 1788#1788: signal process started
+2020/06/07 17:22:10 [notice] 1793#1793: signal process started
+2020/06/07 17:22:10 [notice] 1798#1798: signal process started
+2020/06/07 17:22:24 [notice] 1803#1803: signal process started
+2020/06/07 17:22:25 [notice] 1808#1808: signal process started
+2020/06/07 17:23:25 [notice] 1813#1813: signal process started
+2020/06/07 17:23:25 [notice] 1818#1818: signal process started
+2020/06/07 17:24:25 [notice] 1823#1823: signal process started
+2020/06/07 17:25:08 [notice] 1828#1828: signal process started
+2020/06/07 17:25:08 [notice] 1833#1833: signal process started
+2020/06/07 17:28:09 [notice] 1838#1838: signal process started
+2020/06/07 17:28:10 [notice] 1843#1843: signal process started
+2020/06/07 17:31:23 [notice] 1848#1848: signal process started
+2020/06/07 17:31:24 [notice] 1853#1853: signal process started
+2020/06/07 17:34:32 [notice] 1858#1858: signal process started
+2020/06/07 17:34:32 [notice] 1863#1863: signal process started
+2020/06/07 17:34:33 [notice] 1868#1868: signal process started
+2020/06/07 17:34:34 [notice] 1873#1873: signal process started
+2020/06/07 17:35:32 [notice] 1878#1878: signal process started
+2020/06/07 17:35:33 [notice] 1883#1883: signal process started
+2020/06/07 17:36:33 [notice] 1888#1888: signal process started
+2020/06/07 17:36:33 [notice] 1893#1893: signal process started
+2020/06/07 17:37:35 [notice] 1898#1898: signal process started
+2020/06/07 17:37:36 [notice] 1903#1903: signal process started
+2020/06/07 17:38:04 [notice] 1908#1908: signal process started
+2020/06/07 17:38:06 [notice] 1913#1913: signal process started
+2020/06/07 17:38:17 [notice] 1918#1918: signal process started
+2020/06/07 17:38:20 [notice] 1923#1923: signal process started
+2020/06/07 17:38:34 [notice] 1928#1928: signal process started
+2020/06/07 17:38:47 [notice] 1933#1933: signal process started
+2020/06/07 17:39:34 [notice] 1938#1938: signal process started
+2020/06/07 17:39:34 [notice] 1943#1943: signal process started
+2020/06/07 17:40:35 [notice] 1948#1948: signal process started
+2020/06/07 17:40:37 [notice] 1953#1953: signal process started
+2020/06/07 17:40:37 [notice] 1958#1958: signal process started
+2020/06/07 17:43:36 [notice] 1963#1963: signal process started
+2020/06/07 17:43:36 [notice] 1968#1968: signal process started
+2020/06/07 17:43:42 [notice] 1973#1973: signal process started
+2020/06/07 17:43:43 [notice] 1978#1978: signal process started
+2020/06/07 17:44:36 [notice] 1983#1983: signal process started
+2020/06/07 17:45:37 [notice] 1988#1988: signal process started
+2020/06/07 17:46:37 [notice] 1993#1993: signal process started
+2020/06/07 17:46:40 [notice] 1998#1998: signal process started
+2020/06/07 17:46:41 [notice] 2003#2003: signal process started
+2020/06/07 17:47:38 [notice] 2008#2008: signal process started
+2020/06/07 17:47:38 [notice] 2013#2013: signal process started
+2020/06/07 17:48:38 [notice] 2018#2018: signal process started
+2020/06/07 17:48:39 [notice] 2023#2023: signal process started
+2020/06/07 17:49:39 [notice] 2028#2028: signal process started
+2020/06/07 17:49:39 [notice] 2033#2033: signal process started
+2020/06/07 17:49:39 [notice] 2038#2038: signal process started
+2020/06/07 17:49:39 [notice] 2043#2043: signal process started
+2020/06/07 17:50:39 [notice] 2048#2048: signal process started
+2020/06/07 17:51:40 [notice] 2053#2053: signal process started
+2020/06/07 17:51:40 [notice] 2058#2058: signal process started
+2020/06/07 17:52:38 [notice] 2063#2063: signal process started
+2020/06/07 17:52:39 [notice] 2068#2068: signal process started
+2020/06/07 17:52:40 [notice] 2073#2073: signal process started
+2020/06/07 17:52:41 [notice] 2078#2078: signal process started
+2020/06/07 17:53:41 [notice] 2083#2083: signal process started
+2020/06/07 17:54:41 [notice] 2088#2088: signal process started
+2020/06/07 17:54:42 [notice] 2093#2093: signal process started
+2020/06/07 17:55:41 [notice] 2098#2098: signal process started
+2020/06/07 17:55:43 [notice] 2103#2103: signal process started
+2020/06/07 17:56:44 [notice] 2108#2108: signal process started
+2020/06/07 17:56:44 [notice] 2113#2113: signal process started
+2020/06/07 17:57:45 [notice] 2118#2118: signal process started
+2020/06/07 17:58:45 [notice] 2123#2123: signal process started
+2020/06/07 17:58:45 [notice] 2128#2128: signal process started
+2020/06/07 17:58:50 [notice] 2133#2133: signal process started
+2020/06/07 17:58:50 [notice] 2138#2138: signal process started
+2020/06/07 17:59:46 [notice] 2143#2143: signal process started
+2020/06/07 17:59:46 [notice] 2148#2148: signal process started
+2020/06/07 18:00:48 [notice] 2153#2153: signal process started
+2020/06/07 18:00:49 [notice] 2158#2158: signal process started
+2020/06/07 18:01:50 [notice] 2163#2163: signal process started
+2020/06/07 18:01:51 [notice] 2168#2168: signal process started
+2020/06/07 18:02:51 [notice] 2173#2173: signal process started
+2020/06/07 18:02:52 [notice] 2178#2178: signal process started
+2020/06/07 18:02:53 [notice] 2183#2183: signal process started
+2020/06/07 18:03:52 [notice] 2188#2188: signal process started
+2020/06/07 18:05:57 [notice] 2193#2193: signal process started
+2020/06/07 18:05:59 [notice] 2198#2198: signal process started
+2020/06/07 18:07:00 [notice] 2203#2203: signal process started
+2020/06/07 18:07:01 [notice] 2208#2208: signal process started
+2020/06/07 18:07:45 [notice] 2213#2213: signal process started
+2020/06/07 18:07:47 [notice] 2218#2218: signal process started
+2020/06/07 18:08:03 [notice] 2223#2223: signal process started
+2020/06/07 18:09:06 [notice] 2228#2228: signal process started
+2020/06/10 05:13:36 [notice] 38#38: signal process started
+2020/06/10 05:13:37 [notice] 47#47: signal process started
+2020/06/10 05:13:38 [notice] 53#53: signal process started
+2020/06/10 05:13:38 [notice] 59#59: signal process started
+2020/06/10 05:13:39 [notice] 66#66: signal process started
+2020/06/10 05:13:39 [notice] 72#72: signal process started
+2020/06/10 05:13:40 [notice] 79#79: signal process started
+2020/06/10 05:13:41 [notice] 85#85: signal process started
+2020/06/10 05:13:41 [notice] 91#91: signal process started
+2020/06/10 05:13:41 [notice] 97#97: signal process started
+2020/06/10 05:13:42 [notice] 103#103: signal process started
+2020/06/10 05:13:42 [notice] 109#109: signal process started
+2020/06/10 05:13:43 [notice] 115#115: signal process started
+2020/06/10 05:13:44 [notice] 121#121: signal process started
+2020/06/10 05:13:46 [notice] 127#127: signal process started
+2020/06/10 05:13:46 [notice] 133#133: signal process started
+2020/06/10 05:13:47 [notice] 139#139: signal process started
+2020/06/10 05:13:50 [notice] 145#145: signal process started
+2020/06/10 05:13:51 [notice] 151#151: signal process started
+2020/06/10 05:14:03 [notice] 157#157: signal process started
+2020/06/10 05:14:04 [notice] 163#163: signal process started
+2020/06/10 05:14:06 [notice] 169#169: signal process started
+2020/06/10 05:14:17 [notice] 175#175: signal process started
+2020/06/10 05:14:18 [notice] 181#181: signal process started
+2020/06/10 05:14:32 [notice] 187#187: signal process started
+2020/06/10 05:14:32 [notice] 193#193: signal process started
+2020/06/10 05:14:43 [notice] 199#199: signal process started
+2020/06/10 05:14:44 [notice] 205#205: signal process started
+2020/06/10 05:15:23 [notice] 211#211: signal process started
+2020/06/10 05:15:24 [notice] 217#217: signal process started
+2020/06/10 05:15:36 [notice] 223#223: signal process started
+2020/06/10 05:15:37 [notice] 229#229: signal process started
+2020/06/10 05:16:37 [notice] 235#235: signal process started
+2020/06/10 05:16:38 [notice] 240#240: signal process started
+2020/06/10 05:17:29 [notice] 245#245: signal process started
+2020/06/10 05:17:29 [notice] 250#250: signal process started
+2020/06/10 05:17:38 [notice] 255#255: signal process started
+2020/06/10 05:17:39 [notice] 260#260: signal process started
+2020/06/10 05:18:39 [notice] 265#265: signal process started
+2020/06/10 05:18:40 [notice] 270#270: signal process started
+2020/06/10 05:19:25 [notice] 275#275: signal process started
+2020/06/10 05:19:25 [notice] 280#280: signal process started
+2020/06/10 05:19:41 [notice] 285#285: signal process started
+2020/06/10 05:19:42 [notice] 290#290: signal process started
+2020/06/10 05:20:25 [notice] 295#295: signal process started
+2020/06/10 05:20:26 [notice] 300#300: signal process started
+2020/06/10 05:20:42 [notice] 305#305: signal process started
+2020/06/10 05:20:43 [notice] 310#310: signal process started
+2020/06/10 05:21:21 [notice] 315#315: signal process started
+2020/06/10 05:21:21 [notice] 320#320: signal process started
+2020/06/10 05:21:43 [notice] 325#325: signal process started
+2020/06/10 05:21:44 [notice] 330#330: signal process started
+2020/06/10 05:22:26 [notice] 335#335: signal process started
+2020/06/10 05:22:27 [notice] 340#340: signal process started
+2020/06/10 05:22:44 [notice] 345#345: signal process started
+2020/06/10 05:22:45 [notice] 350#350: signal process started
+2020/06/10 05:23:27 [notice] 355#355: signal process started
+2020/06/10 05:23:27 [notice] 360#360: signal process started
+2020/06/10 05:23:46 [notice] 365#365: signal process started
+2020/06/10 05:23:47 [notice] 370#370: signal process started
+2020/06/10 05:24:47 [notice] 375#375: signal process started
+2020/06/10 05:24:48 [notice] 380#380: signal process started
+2020/06/10 05:25:11 [notice] 385#385: signal process started
+2020/06/10 05:25:12 [notice] 390#390: signal process started
+2020/06/10 05:25:28 [notice] 395#395: signal process started
+2020/06/10 05:25:48 [notice] 400#400: signal process started
+2020/06/10 05:25:49 [notice] 405#405: signal process started
+2020/06/10 05:26:28 [notice] 410#410: signal process started
+2020/06/10 05:26:28 [notice] 415#415: signal process started
+2020/06/10 05:26:49 [notice] 420#420: signal process started
+2020/06/10 05:26:50 [notice] 425#425: signal process started
+2020/06/10 05:27:29 [notice] 430#430: signal process started
+2020/06/10 05:27:29 [notice] 435#435: signal process started
+2020/06/10 05:27:50 [notice] 440#440: signal process started
+2020/06/10 05:27:51 [notice] 445#445: signal process started
+2020/06/10 05:28:29 [notice] 450#450: signal process started
+2020/06/10 05:28:52 [notice] 455#455: signal process started
+2020/06/10 05:28:53 [notice] 460#460: signal process started
+2020/06/10 05:29:01 [notice] 465#465: signal process started
+2020/06/10 05:29:01 [notice] 470#470: signal process started
+2020/06/10 05:29:29 [notice] 475#475: signal process started
+2020/06/10 05:29:29 [notice] 480#480: signal process started
+2020/06/10 05:29:53 [notice] 485#485: signal process started
+2020/06/10 05:29:54 [notice] 490#490: signal process started
+2020/06/10 05:30:30 [notice] 495#495: signal process started
+2020/06/10 05:30:30 [notice] 500#500: signal process started
+2020/06/10 05:30:54 [notice] 505#505: signal process started
+2020/06/10 05:30:55 [notice] 510#510: signal process started
+2020/06/10 05:31:30 [notice] 515#515: signal process started
+2020/06/10 05:31:30 [notice] 520#520: signal process started
+2020/06/10 05:31:55 [notice] 525#525: signal process started
+2020/06/10 05:31:56 [notice] 530#530: signal process started
+2020/06/10 05:32:31 [notice] 535#535: signal process started
+2020/06/10 05:32:31 [notice] 540#540: signal process started
+2020/06/10 05:32:50 [notice] 545#545: signal process started
+2020/06/10 05:32:50 [notice] 550#550: signal process started
+2020/06/10 05:32:56 [notice] 555#555: signal process started
+2020/06/10 05:32:57 [notice] 560#560: signal process started
+2020/06/10 05:33:31 [notice] 565#565: signal process started
+2020/06/10 05:33:31 [notice] 570#570: signal process started
+2020/06/10 05:33:58 [notice] 575#575: signal process started
+2020/06/10 05:33:59 [notice] 580#580: signal process started
+2020/06/10 05:34:31 [notice] 585#585: signal process started
+2020/06/10 05:34:32 [notice] 590#590: signal process started
+2020/06/10 05:34:59 [notice] 595#595: signal process started
+2020/06/10 05:35:00 [notice] 600#600: signal process started
+2020/06/10 05:36:00 [notice] 605#605: signal process started
+2020/06/10 05:36:01 [notice] 610#610: signal process started
+2020/06/10 05:36:32 [notice] 615#615: signal process started
+2020/06/10 05:36:41 [notice] 620#620: signal process started
+2020/06/10 05:36:42 [notice] 625#625: signal process started
+2020/06/10 05:37:01 [notice] 630#630: signal process started
+2020/06/10 05:37:02 [notice] 635#635: signal process started
+2020/06/10 05:37:33 [notice] 640#640: signal process started
+2020/06/10 05:38:02 [notice] 645#645: signal process started
+2020/06/10 05:38:03 [notice] 650#650: signal process started
+2020/06/10 05:38:33 [notice] 655#655: signal process started
+2020/06/10 05:39:04 [notice] 660#660: signal process started
+2020/06/10 05:39:05 [notice] 665#665: signal process started
+2020/06/10 05:39:33 [notice] 670#670: signal process started
+2020/06/10 05:40:05 [notice] 675#675: signal process started
+2020/06/10 05:40:06 [notice] 680#680: signal process started
+2020/06/10 05:40:31 [notice] 685#685: signal process started
+2020/06/10 05:40:31 [notice] 690#690: signal process started
+2020/06/10 05:40:34 [notice] 695#695: signal process started
+2020/06/10 05:40:34 [notice] 700#700: signal process started
+2020/06/10 05:41:06 [notice] 705#705: signal process started
+2020/06/10 05:41:07 [notice] 710#710: signal process started
+2020/06/10 05:42:07 [notice] 715#715: signal process started
+2020/06/10 05:42:08 [notice] 720#720: signal process started
+2020/06/10 05:43:08 [notice] 725#725: signal process started
+2020/06/10 05:43:09 [notice] 730#730: signal process started
+2020/06/10 05:43:35 [notice] 735#735: signal process started
+2020/06/10 05:44:10 [notice] 740#740: signal process started
+2020/06/10 05:44:11 [notice] 745#745: signal process started
+2020/06/10 05:44:18 [notice] 750#750: signal process started
+2020/06/10 05:44:19 [notice] 755#755: signal process started
+2020/06/10 05:45:11 [notice] 760#760: signal process started
+2020/06/10 05:45:12 [notice] 765#765: signal process started
+2020/06/10 05:45:17 [notice] 770#770: signal process started
+2020/06/10 05:45:19 [notice] 775#775: signal process started
+2020/06/10 05:45:20 [notice] 780#780: signal process started
+2020/06/10 05:45:24 [notice] 785#785: signal process started
+2020/06/15 11:49:01 [notice] 42#42: signal process started
+2020/06/15 11:49:03 [notice] 50#50: signal process started
+2020/06/15 11:49:04 [notice] 58#58: signal process started
+2020/06/15 11:49:05 [notice] 64#64: signal process started
+2020/06/15 11:49:08 [notice] 70#70: signal process started
+2020/06/15 11:50:22 [notice] 98#98: signal process started
+2020/06/15 12:01:09 [notice] 104#104: signal process started
+2020/06/15 12:01:10 [notice] 109#109: signal process started
+2020/06/15 12:01:33 [notice] 114#114: signal process started
+2020/06/15 12:01:33 [notice] 119#119: signal process started
+2020/06/15 12:01:59 [notice] 124#124: signal process started
+2020/06/15 12:02:01 [notice] 129#129: signal process started
+2020/06/15 12:02:32 [notice] 134#134: signal process started
+2020/06/15 12:02:33 [notice] 139#139: signal process started
+2020/06/15 12:02:53 [notice] 144#144: signal process started
+2020/06/15 12:05:37 [notice] 149#149: signal process started
+2020/06/15 12:05:37 [notice] 154#154: signal process started
+2020/06/15 12:06:39 [notice] 159#159: signal process started
+2020/06/15 12:06:40 [notice] 164#164: signal process started
+2020/06/15 12:18:29 [notice] 169#169: signal process started
+2020/06/15 12:18:30 [notice] 174#174: signal process started
+2020/06/15 12:18:30 [notice] 179#179: signal process started
+2020/06/15 12:20:52 [notice] 184#184: signal process started
+2020/06/15 12:20:52 [notice] 189#189: signal process started
+2020/06/15 12:20:53 [notice] 194#194: signal process started
+2020/06/15 12:20:53 [notice] 199#199: signal process started
+2020/06/15 12:21:16 [notice] 204#204: signal process started
+2020/06/15 12:32:25 [notice] 209#209: signal process started
+2020/06/15 12:32:26 [notice] 214#214: signal process started
+2020/06/15 12:32:26 [notice] 219#219: signal process started
+2020/06/15 12:34:58 [notice] 224#224: signal process started
+2020/06/15 12:34:59 [notice] 229#229: signal process started
+2020/06/15 12:39:44 [notice] 234#234: signal process started
+2020/06/15 12:39:44 [notice] 239#239: signal process started
+2020/06/15 12:39:45 [notice] 244#244: signal process started
+2020/06/15 12:45:04 [notice] 249#249: signal process started
+2020/06/15 12:45:05 [notice] 254#254: signal process started
+2020/06/15 12:56:59 [notice] 259#259: signal process started
+2020/06/15 12:56:59 [notice] 264#264: signal process started
+2020/06/15 12:57:00 [notice] 269#269: signal process started
+2020/06/15 12:57:53 [notice] 274#274: signal process started
+2020/06/15 12:57:54 [notice] 279#279: signal process started
+2020/06/15 12:57:54 [notice] 284#284: signal process started
+2020/06/15 12:58:57 [notice] 289#289: signal process started
+2020/06/15 12:58:57 [notice] 294#294: signal process started
+2020/06/15 13:00:29 [notice] 299#299: signal process started
+2020/06/15 13:00:30 [notice] 304#304: signal process started
+2020/06/15 13:00:30 [notice] 309#309: signal process started
+2020/06/15 13:39:42 [notice] 314#314: signal process started
+2020/06/15 13:39:42 [notice] 319#319: signal process started
+2020/06/15 13:39:42 [notice] 324#324: signal process started
+2020/06/15 13:40:43 [notice] 329#329: signal process started
+2020/06/15 13:40:44 [notice] 334#334: signal process started
+2020/06/15 13:47:48 [notice] 339#339: signal process started
+2020/06/15 13:47:48 [notice] 344#344: signal process started
+2020/06/15 13:48:38 [notice] 349#349: signal process started
+2020/06/15 13:48:38 [notice] 354#354: signal process started
+2020/06/16 12:14:16 [notice] 38#38: signal process started
+2020/06/16 12:14:16 [notice] 46#46: signal process started
+2020/06/16 12:14:17 [notice] 52#52: signal process started
+2020/06/16 12:14:17 [notice] 58#58: signal process started
+2020/06/16 12:14:18 [notice] 64#64: signal process started
+2020/06/16 12:14:18 [notice] 70#70: signal process started
+2020/06/16 12:14:19 [notice] 76#76: signal process started
+2020/06/16 12:14:19 [notice] 83#83: signal process started
+2020/06/16 12:14:21 [notice] 89#89: signal process started
+2020/06/16 12:14:21 [notice] 95#95: signal process started
+2020/06/16 12:14:24 [notice] 101#101: signal process started
+2020/06/16 12:14:24 [notice] 107#107: signal process started
+2020/06/16 12:14:31 [notice] 114#114: signal process started
+2020/06/16 12:14:31 [notice] 120#120: signal process started
+2020/06/16 12:14:44 [notice] 128#128: signal process started
+2020/06/16 12:14:44 [notice] 134#134: signal process started
+2020/06/16 12:15:10 [notice] 140#140: signal process started
+2020/06/16 12:15:10 [notice] 146#146: signal process started
+2020/06/16 12:16:02 [notice] 152#152: signal process started
+2020/06/16 12:16:02 [notice] 158#158: signal process started
+2020/06/16 12:17:02 [notice] 164#164: signal process started
+2020/06/16 12:17:02 [notice] 169#169: signal process started
+2020/06/16 12:18:02 [notice] 174#174: signal process started
+2020/06/16 12:18:03 [notice] 179#179: signal process started
+2020/06/16 12:19:03 [notice] 184#184: signal process started
+2020/06/16 12:19:03 [notice] 189#189: signal process started
+2020/06/16 12:20:03 [notice] 194#194: signal process started
+2020/06/16 12:20:03 [notice] 199#199: signal process started
+2020/06/16 12:21:03 [notice] 204#204: signal process started
+2020/06/16 12:21:03 [notice] 209#209: signal process started
+2020/06/16 12:22:04 [notice] 214#214: signal process started
+2020/06/16 12:22:04 [notice] 219#219: signal process started
+2020/06/16 12:23:04 [notice] 224#224: signal process started
+2020/06/16 12:23:04 [notice] 229#229: signal process started
+2020/06/16 12:24:04 [notice] 234#234: signal process started
+2020/06/16 12:24:05 [notice] 239#239: signal process started
+2020/06/16 12:25:05 [notice] 244#244: signal process started
+2020/06/16 12:25:05 [notice] 249#249: signal process started
+2020/06/16 12:26:05 [notice] 254#254: signal process started
+2020/06/16 12:26:05 [notice] 259#259: signal process started
+2020/06/16 12:27:05 [notice] 264#264: signal process started
+2020/06/16 12:27:06 [notice] 269#269: signal process started
+2020/06/16 12:28:06 [notice] 274#274: signal process started
+2020/06/16 12:28:06 [notice] 279#279: signal process started
+2020/06/16 12:29:06 [notice] 284#284: signal process started
+2020/06/16 12:29:06 [notice] 289#289: signal process started
+2020/06/16 12:30:06 [notice] 294#294: signal process started
+2020/06/16 12:30:07 [notice] 299#299: signal process started
+2020/06/16 12:30:23 [notice] 42#42: signal process started
+2020/06/16 12:30:24 [notice] 51#51: signal process started
+2020/06/16 12:30:28 [notice] 57#57: signal process started
+2020/06/16 12:30:31 [notice] 85#85: signal process started
+2020/06/16 12:39:09 [notice] 92#92: signal process started
+2020/06/16 12:39:10 [notice] 97#97: signal process started
+2020/06/16 12:39:10 [notice] 102#102: signal process started
+2020/06/16 12:42:35 [notice] 107#107: signal process started
+2020/06/16 12:42:36 [notice] 112#112: signal process started
+2020/06/16 12:44:48 [notice] 119#119: signal process started
+2020/06/16 12:44:48 [notice] 124#124: signal process started
+2020/06/16 12:44:48 [notice] 129#129: signal process started
+2020/06/16 12:47:16 [notice] 134#134: signal process started
+2020/06/16 12:47:17 [notice] 139#139: signal process started
+2020/06/16 12:49:20 [notice] 144#144: signal process started
+2020/06/16 12:49:21 [notice] 149#149: signal process started
+2020/06/16 12:50:34 [notice] 154#154: signal process started
+2020/06/16 12:50:35 [notice] 159#159: signal process started
+2020/06/16 12:51:13 [notice] 164#164: signal process started
+2020/06/16 12:51:13 [notice] 169#169: signal process started
+2020/06/16 12:51:13 [notice] 174#174: signal process started
+2020/06/16 13:03:13 [notice] 179#179: signal process started
+2020/06/16 13:03:13 [notice] 184#184: signal process started
+2020/06/16 13:03:14 [notice] 189#189: signal process started
+2020/06/16 13:05:29 [notice] 194#194: signal process started
+2020/06/16 13:05:29 [notice] 199#199: signal process started
+2020/06/16 13:07:53 [notice] 205#205: signal process started
+2020/06/16 13:07:53 [notice] 210#210: signal process started
+2020/06/16 13:11:39 [notice] 215#215: signal process started
+2020/06/16 13:11:40 [notice] 220#220: signal process started
+2020/06/16 13:11:40 [notice] 225#225: signal process started
+2020/06/16 13:12:55 [notice] 230#230: signal process started
+2020/06/16 13:12:56 [notice] 235#235: signal process started
+2020/06/16 13:12:56 [notice] 240#240: signal process started
+2020/06/16 13:13:53 [notice] 245#245: signal process started
+2020/06/16 13:13:53 [notice] 250#250: signal process started
+2020/06/16 13:16:50 [notice] 255#255: signal process started
+2020/06/16 13:16:50 [notice] 260#260: signal process started
+2020/06/16 13:16:50 [notice] 265#265: signal process started
+2020/06/16 13:22:28 [notice] 270#270: signal process started
+2020/06/16 13:22:29 [notice] 275#275: signal process started
+2020/06/16 13:28:13 [notice] 280#280: signal process started
+2020/06/16 13:28:13 [notice] 285#285: signal process started
+2020/06/16 13:28:13 [notice] 290#290: signal process started
+2020/06/16 13:32:06 [notice] 295#295: signal process started
+2020/06/16 13:32:07 [notice] 300#300: signal process started
+2020/06/16 13:34:02 [notice] 305#305: signal process started
+2020/06/16 13:34:03 [notice] 310#310: signal process started
+2020/06/16 13:36:03 [notice] 315#315: signal process started
+2020/06/16 13:36:03 [notice] 320#320: signal process started
+2020/06/16 13:36:03 [notice] 325#325: signal process started
+2020/06/16 13:38:37 [notice] 330#330: signal process started
+2020/06/16 13:38:38 [notice] 335#335: signal process started
+2020/06/16 13:38:38 [notice] 340#340: signal process started
+2020/06/16 13:42:33 [notice] 345#345: signal process started
+2020/06/16 13:42:33 [notice] 350#350: signal process started
+2020/06/16 13:42:33 [notice] 355#355: signal process started
+2020/06/16 13:43:25 [notice] 360#360: signal process started
+2020/06/16 13:43:25 [notice] 365#365: signal process started
+2020/06/16 13:44:33 [notice] 370#370: signal process started
+2020/06/16 13:44:33 [notice] 375#375: signal process started
+2020/06/16 13:44:33 [notice] 380#380: signal process started
+2020/06/16 13:44:34 [error] 366#366: *222 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "GET /wallet/0xb02C43F52dFe07d35dA97748106A8561a6b1e6e1 HTTP/1.1", upstream: "http://172.18.0.3:8080/wallet/0xb02C43F52dFe07d35dA97748106A8561a6b1e6e1", host: "api.localhost"
+2020/06/16 13:44:34 [warn] 366#366: *222 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "GET /wallet/0xb02C43F52dFe07d35dA97748106A8561a6b1e6e1 HTTP/1.1", upstream: "http://172.18.0.3:8080/wallet/0xb02C43F52dFe07d35dA97748106A8561a6b1e6e1", host: "api.localhost"
+2020/06/16 13:44:34 [error] 366#366: *222 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "GET /wallet/0xb02C43F52dFe07d35dA97748106A8561a6b1e6e1 HTTP/1.1", upstream: "http://api.localhost/wallet/0xb02C43F52dFe07d35dA97748106A8561a6b1e6e1", host: "api.localhost"
+2020/06/16 13:46:01 [notice] 385#385: signal process started
+2020/06/16 13:46:01 [notice] 390#390: signal process started
+2020/06/16 13:46:07 [error] 392#392: *235 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.3:8080/login/", host: "api.localhost"
+2020/06/16 13:46:07 [warn] 392#392: *235 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.3:8080/login/", host: "api.localhost"
+2020/06/16 13:46:07 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:46:10 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:46:11 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:46:12 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:46:12 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:46:13 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:46:14 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:46:14 [error] 392#392: *235 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:47:05 [notice] 395#395: signal process started
+2020/06/16 13:47:06 [notice] 400#400: signal process started
+2020/06/16 13:47:06 [notice] 405#405: signal process started
+2020/06/16 13:51:02 [notice] 410#410: signal process started
+2020/06/16 13:51:02 [notice] 415#415: signal process started
+2020/06/16 13:53:26 [notice] 420#420: signal process started
+2020/06/16 13:53:27 [notice] 425#425: signal process started
+2020/06/16 13:58:11 [notice] 430#430: signal process started
+2020/06/16 13:58:12 [notice] 435#435: signal process started
+2020/06/16 13:58:12 [notice] 440#440: signal process started
+2020/06/16 13:58:38 [notice] 445#445: signal process started
+2020/06/16 13:58:38 [notice] 450#450: signal process started
+2020/06/16 13:59:13 [notice] 455#455: signal process started
+2020/06/16 13:59:14 [notice] 460#460: signal process started
+2020/06/16 13:59:15 [error] 461#461: *265 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.3:8080/login/", host: "api.localhost"
+2020/06/16 13:59:15 [warn] 461#461: *265 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.3:8080/login/", host: "api.localhost"
+2020/06/16 13:59:15 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:16 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /signin/ HTTP/1.1", upstream: "http://api.localhost/signin/", host: "api.localhost"
+2020/06/16 13:59:19 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:21 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:22 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:22 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:23 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:23 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:23 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:24 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:24 [error] 461#461: *265 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/16 13:59:46 [notice] 465#465: signal process started
+2020/06/16 13:59:47 [notice] 470#470: signal process started
+2020/06/16 14:00:18 [notice] 475#475: signal process started
+2020/06/16 14:00:19 [notice] 480#480: signal process started
+2020/06/16 14:07:33 [notice] 485#485: signal process started
+2020/06/16 14:07:34 [notice] 490#490: signal process started
+2020/06/16 14:07:34 [notice] 495#495: signal process started
+2020/06/16 14:08:10 [notice] 500#500: signal process started
+2020/06/16 14:08:10 [notice] 505#505: signal process started
+2020/06/16 14:16:32 [notice] 510#510: signal process started
+2020/06/16 14:16:33 [notice] 515#515: signal process started
+2020/06/16 15:14:44 [notice] 520#520: signal process started
+2020/06/16 15:14:44 [notice] 525#525: signal process started
+2020/06/16 15:14:44 [notice] 530#530: signal process started
+2020/06/16 15:15:25 [notice] 535#535: signal process started
+2020/06/16 15:15:25 [notice] 540#540: signal process started
+2020/06/16 15:39:21 [notice] 545#545: signal process started
+2020/06/16 15:39:22 [notice] 550#550: signal process started
+2020/06/16 15:39:22 [notice] 555#555: signal process started
+2020/06/16 15:39:23 [notice] 560#560: signal process started
+2020/06/16 15:40:17 [notice] 565#565: signal process started
+2020/06/16 15:43:13 [notice] 570#570: signal process started
+2020/06/16 15:43:14 [notice] 575#575: signal process started
+2020/06/16 15:51:51 [error] 577#577: *366 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /signin/ HTTP/1.1", upstream: "http://172.18.0.3:8080/signin/", host: "api.localhost"
+2020/06/16 15:51:51 [warn] 577#577: *366 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /signin/ HTTP/1.1", upstream: "http://172.18.0.3:8080/signin/", host: "api.localhost"
+2020/06/16 15:51:51 [error] 577#577: *366 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /signin/ HTTP/1.1", upstream: "http://api.localhost/signin/", host: "api.localhost"
+2020/06/16 15:51:51 [notice] 580#580: signal process started
+2020/06/16 15:51:52 [notice] 585#585: signal process started
+2020/06/16 15:53:52 [notice] 590#590: signal process started
+2020/06/16 15:53:53 [notice] 595#595: signal process started
+2020/06/16 15:53:53 [notice] 600#600: signal process started
+2020/06/16 16:16:56 [notice] 43#43: signal process started
+2020/06/16 16:16:57 [notice] 50#50: signal process started
+2020/06/16 16:16:58 [notice] 58#58: signal process started
+2020/06/16 16:17:02 [notice] 64#64: signal process started
+2020/06/16 16:17:06 [notice] 90#90: signal process started
+2020/06/16 16:17:25 [notice] 118#118: signal process started
+2020/06/17 11:47:25 [notice] 42#42: signal process started
+2020/06/17 11:47:27 [notice] 50#50: signal process started
+2020/06/17 11:47:32 [notice] 59#59: signal process started
+2020/06/17 11:47:35 [notice] 85#85: signal process started
+2020/06/17 11:49:34 [notice] 112#112: signal process started
+2020/06/24 16:53:39 [notice] 43#43: signal process started
+2020/06/24 16:53:41 [notice] 51#51: signal process started
+2020/06/24 16:54:18 [notice] 79#79: signal process started
+2020/06/24 16:54:34 [notice] 85#85: signal process started
+2020/06/24 16:55:08 [notice] 112#112: signal process started
+2020/06/24 17:07:56 [notice] 119#119: signal process started
+2020/06/24 17:10:04 [notice] 124#124: signal process started
+2020/06/24 17:10:14 [notice] 129#129: signal process started
+2020/06/24 17:10:29 [notice] 134#134: signal process started
+2020/06/24 17:10:30 [notice] 139#139: signal process started
+2020/06/24 17:10:31 [notice] 144#144: signal process started
+2020/06/24 17:37:52 [notice] 149#149: signal process started
+2020/06/24 17:37:52 [notice] 154#154: signal process started
+2020/06/24 17:38:28 [notice] 159#159: signal process started
+2020/06/24 17:38:28 [notice] 164#164: signal process started
+2020/06/24 20:42:05 [notice] 171#171: signal process started
+2020/06/24 20:42:05 [notice] 176#176: signal process started
+2020/06/24 20:42:06 [notice] 181#181: signal process started
+2020/06/24 20:42:15 [notice] 186#186: signal process started
+2020/06/24 20:44:49 [notice] 191#191: signal process started
+2020/06/24 20:44:50 [notice] 196#196: signal process started
+2020/06/24 20:44:50 [notice] 201#201: signal process started
+2020/06/24 20:44:51 [notice] 206#206: signal process started
+2020/06/24 20:45:15 [notice] 211#211: signal process started
+2020/06/24 20:45:31 [notice] 237#237: signal process started
+2020/06/24 20:45:33 [notice] 242#242: signal process started
+2020/06/24 20:45:41 [notice] 247#247: signal process started
+2020/06/24 20:49:02 [notice] 252#252: signal process started
+2020/06/24 20:49:03 [notice] 257#257: signal process started
+2020/06/24 20:49:04 [notice] 262#262: signal process started
+2020/06/24 20:49:04 [notice] 267#267: signal process started
+2020/06/26 06:49:09 [notice] 38#38: signal process started
+2020/06/26 06:51:41 [notice] 40#40: signal process started
+2020/06/26 06:51:44 [notice] 53#53: signal process started
+2020/06/26 06:52:37 [notice] 82#82: signal process started
+2020/06/26 06:52:38 [notice] 88#88: signal process started
+2020/06/26 06:52:39 [notice] 94#94: signal process started
+2020/06/26 06:52:39 [notice] 100#100: signal process started
+2020/06/26 06:52:40 [notice] 106#106: signal process started
+2020/06/26 06:54:10 [notice] 113#113: signal process started
+2020/06/26 06:59:34 [notice] 119#119: signal process started
+2020/06/26 06:59:35 [notice] 124#124: signal process started
+2020/06/26 07:05:05 [notice] 129#129: signal process started
+2020/06/26 07:05:06 [notice] 134#134: signal process started
+2020/06/26 07:05:06 [notice] 139#139: signal process started
+2020/06/26 07:07:29 [notice] 144#144: signal process started
+2020/06/26 07:07:31 [notice] 149#149: signal process started
+2020/06/26 07:08:30 [notice] 154#154: signal process started
+2020/06/26 07:08:32 [notice] 159#159: signal process started
+2020/06/26 07:10:02 [notice] 164#164: signal process started
+2020/06/26 07:10:03 [error] 161#161: *21 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /token/new HTTP/1.1", upstream: "http://172.18.0.8:8080/token/new", host: "api.localhost"
+2020/06/26 07:10:03 [warn] 161#161: *21 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /token/new HTTP/1.1", upstream: "http://172.18.0.8:8080/token/new", host: "api.localhost"
+2020/06/26 07:10:03 [error] 161#161: *21 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /token/new HTTP/1.1", upstream: "http://api.localhost/token/new", host: "api.localhost"
+2020/06/26 07:10:03 [notice] 169#169: signal process started
+2020/06/26 07:10:04 [notice] 174#174: signal process started
+2020/06/26 07:21:36 [notice] 179#179: signal process started
+2020/06/26 07:21:37 [notice] 184#184: signal process started
+2020/06/26 07:23:13 [notice] 189#189: signal process started
+2020/06/26 07:23:13 [notice] 194#194: signal process started
+2020/06/26 07:23:44 [notice] 199#199: signal process started
+2020/06/26 07:23:45 [notice] 204#204: signal process started
+2020/06/26 07:40:59 [notice] 209#209: signal process started
+2020/06/26 07:41:00 [notice] 214#214: signal process started
+2020/06/26 07:41:00 [notice] 219#219: signal process started
+2020/06/26 07:41:04 [error] 222#222: *46 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.8:8080/login/", host: "api.localhost"
+2020/06/26 07:41:04 [warn] 222#222: *46 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.8:8080/login/", host: "api.localhost"
+2020/06/26 07:41:04 [error] 222#222: *46 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 07:41:06 [error] 222#222: *46 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 07:41:10 [error] 222#222: *46 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 07:41:13 [error] 222#222: *46 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 07:41:14 [error] 222#222: *46 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 07:41:58 [notice] 224#224: signal process started
+2020/06/26 07:41:59 [notice] 229#229: signal process started
+2020/06/26 07:42:44 [notice] 234#234: signal process started
+2020/06/26 07:42:45 [notice] 239#239: signal process started
+2020/06/26 07:44:53 [notice] 244#244: signal process started
+2020/06/26 07:44:53 [notice] 249#249: signal process started
+2020/06/26 07:45:52 [notice] 254#254: signal process started
+2020/06/26 07:45:52 [notice] 259#259: signal process started
+2020/06/26 07:45:53 [notice] 264#264: signal process started
+2020/06/26 07:49:08 [notice] 269#269: signal process started
+2020/06/26 07:49:08 [notice] 274#274: signal process started
+2020/06/26 08:08:11 [notice] 279#279: signal process started
+2020/06/26 08:08:11 [notice] 284#284: signal process started
+2020/06/26 08:15:29 [notice] 289#289: signal process started
+2020/06/26 08:15:30 [notice] 294#294: signal process started
+2020/06/26 08:18:13 [notice] 299#299: signal process started
+2020/06/26 08:18:14 [notice] 304#304: signal process started
+2020/06/26 08:18:15 [error] 305#305: *96 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.8:8080/login/", host: "api.localhost"
+2020/06/26 08:18:15 [warn] 305#305: *96 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.8:8080/login/", host: "api.localhost"
+2020/06/26 08:18:15 [error] 305#305: *96 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 08:18:16 [error] 305#305: *96 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 08:18:17 [error] 305#305: *96 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 09:29:49 [notice] 309#309: signal process started
+2020/06/26 09:29:50 [notice] 314#314: signal process started
+2020/06/26 09:29:51 [notice] 319#319: signal process started
+2020/06/26 09:30:11 [notice] 324#324: signal process started
+2020/06/26 09:30:23 [notice] 329#329: signal process started
+2020/06/26 09:30:24 [notice] 334#334: signal process started
+2020/06/26 09:35:50 [notice] 339#339: signal process started
+2020/06/26 09:35:51 [notice] 344#344: signal process started
+2020/06/26 09:35:51 [notice] 349#349: signal process started
+2020/06/26 09:40:21 [notice] 354#354: signal process started
+2020/06/26 09:40:22 [notice] 359#359: signal process started
+2020/06/26 09:40:22 [notice] 364#364: signal process started
+2020/06/26 09:42:16 [notice] 369#369: signal process started
+2020/06/26 09:42:16 [notice] 374#374: signal process started
+2020/06/26 09:43:40 [notice] 379#379: signal process started
+2020/06/26 09:43:41 [notice] 384#384: signal process started
+2020/06/26 09:46:30 [notice] 389#389: signal process started
+2020/06/26 09:46:31 [notice] 394#394: signal process started
+2020/06/26 09:46:32 [error] 395#395: *124 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.8:8080/login/", host: "api.localhost"
+2020/06/26 09:46:32 [warn] 395#395: *124 upstream server temporarily disabled while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://172.18.0.8:8080/login/", host: "api.localhost"
+2020/06/26 09:46:32 [error] 395#395: *124 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 09:46:34 [error] 395#395: *124 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 09:46:42 [error] 395#395: *124 no live upstreams while connecting to upstream, client: 172.18.0.1, server: api.localhost, request: "POST /login/ HTTP/1.1", upstream: "http://api.localhost/login/", host: "api.localhost"
+2020/06/26 09:48:20 [notice] 399#399: signal process started
+2020/06/26 09:48:21 [notice] 404#404: signal process started
+2020/06/26 09:48:21 [notice] 409#409: signal process started
+2020/06/26 09:50:10 [notice] 414#414: signal process started
+2020/06/26 09:50:10 [notice] 420#420: signal process started
+2020/06/26 09:53:04 [notice] 425#425: signal process started
+2020/06/26 09:53:04 [notice] 430#430: signal process started
+2020/06/26 09:54:33 [notice] 435#435: signal process started
+2020/06/26 09:54:34 [notice] 440#440: signal process started
+2020/06/26 09:55:26 [notice] 445#445: signal process started
+2020/06/26 09:55:26 [notice] 450#450: signal process started
+2020/06/26 09:57:29 [notice] 455#455: signal process started
+2020/06/26 09:57:30 [notice] 460#460: signal process started
+2020/06/26 09:57:30 [notice] 465#465: signal process started
+2020/06/26 09:58:06 [notice] 470#470: signal process started
+2020/06/26 09:58:07 [notice] 475#475: signal process started
+2020/06/26 10:00:03 [notice] 480#480: signal process started
+2020/06/26 10:00:03 [notice] 485#485: signal process started
+2020/06/26 10:01:25 [notice] 490#490: signal process started
+2020/06/26 10:01:26 [notice] 495#495: signal process started
+2020/06/26 10:02:39 [warn] 496#496: *160 upstream server temporarily disabled while reading response header from upstream, client: 172.18.0.1, server: api.localhost, request: "POST /token/new HTTP/1.1", upstream: "http://172.18.0.8:8080/token/new", host: "api.localhost"
+2020/06/26 10:02:39 [error] 496#496: *160 upstream timed out (110: Operation timed out) while reading response header from upstream, client: 172.18.0.1, server: api.localhost, request: "POST /token/new HTTP/1.1", upstream: "http://172.18.0.8:8080/token/new", host: "api.localhost"
+2020/06/26 12:10:54 [notice] 33#33: signal process started
+2020/06/26 14:24:16 [notice] 47#47: signal process started
+2020/06/26 14:24:16 [notice] 52#52: signal process started
+2020/06/26 14:24:16 [notice] 57#57: signal process started
+2020/06/26 14:24:20 [notice] 62#62: signal process started
+2020/06/26 18:07:31 [notice] 69#69: signal process started
+2020/06/26 18:07:32 [notice] 74#74: signal process started
+2020/06/26 18:07:35 [notice] 79#79: signal process started
+2020/06/26 18:07:39 [notice] 84#84: signal process started
+2020/06/26 18:07:40 [notice] 89#89: signal process started
+2020/06/26 18:07:46 [notice] 94#94: signal process started
+2020/06/26 18:07:46 [notice] 99#99: signal process started
+2020/06/26 18:07:52 [notice] 104#104: signal process started
+2020/06/26 18:07:53 [notice] 109#109: signal process started
+2020/06/26 18:07:58 [notice] 114#114: signal process started
+2020/06/26 18:07:59 [notice] 119#119: signal process started
+2020/06/26 18:08:05 [notice] 124#124: signal process started
+2020/06/26 18:08:07 [notice] 129#129: signal process started
+2020/06/26 18:08:13 [notice] 134#134: signal process started
+2020/06/26 18:08:16 [notice] 139#139: signal process started
+2020/06/26 18:08:22 [notice] 144#144: signal process started
+2020/06/26 18:08:29 [notice] 149#149: signal process started
+2020/06/26 18:08:34 [notice] 154#154: signal process started
+2020/06/26 18:08:47 [notice] 159#159: signal process started
+2020/06/26 18:08:53 [notice] 164#164: signal process started
+2020/06/26 18:09:19 [notice] 169#169: signal process started
+2020/06/26 18:09:24 [notice] 174#174: signal process started
+2020/06/26 18:10:16 [notice] 179#179: signal process started
+2020/06/26 18:10:22 [notice] 184#184: signal process started
+2020/06/26 18:11:22 [notice] 189#189: signal process started
+2020/06/26 18:11:27 [notice] 194#194: signal process started
+2020/06/26 18:12:27 [notice] 199#199: signal process started
+2020/06/26 18:12:31 [notice] 204#204: signal process started
+2020/06/26 18:13:31 [notice] 209#209: signal process started
+2020/06/26 18:13:35 [notice] 214#214: signal process started
+2020/06/26 18:14:36 [notice] 219#219: signal process started
+2020/06/26 18:14:40 [notice] 224#224: signal process started
+2020/06/26 18:15:40 [notice] 229#229: signal process started
+2020/06/26 18:15:44 [notice] 234#234: signal process started
+2020/06/26 18:16:44 [notice] 239#239: signal process started
+2020/06/26 18:16:49 [notice] 244#244: signal process started
+2020/06/26 18:17:49 [notice] 249#249: signal process started
+2020/06/26 18:17:53 [notice] 254#254: signal process started
+2020/06/26 18:18:54 [notice] 259#259: signal process started
+2020/06/26 18:18:58 [notice] 264#264: signal process started
+2020/06/26 18:19:59 [notice] 269#269: signal process started
+2020/06/26 18:20:03 [notice] 274#274: signal process started
+2020/06/26 18:21:04 [notice] 279#279: signal process started
+2020/06/26 18:21:10 [notice] 284#284: signal process started
+2020/06/26 18:22:10 [notice] 289#289: signal process started
+2020/06/26 18:22:14 [notice] 294#294: signal process started
+2020/06/26 18:22:49 [error] 295#295: *259 no live upstreams while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://localhost/", host: "localhost"
+2020/06/26 18:23:14 [notice] 299#299: signal process started
+2020/06/26 18:23:19 [notice] 304#304: signal process started
+2020/06/26 18:24:19 [notice] 309#309: signal process started
+2020/06/26 18:24:24 [notice] 314#314: signal process started
+2020/06/26 18:24:26 [notice] 319#319: signal process started
+2020/06/26 18:24:27 [notice] 324#324: signal process started
+2020/06/26 18:24:28 [notice] 329#329: signal process started
+2020/06/26 18:24:28 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:28 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:29 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:29 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:30 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:30 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:39 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:39 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:40 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:40 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:40 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:40 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:41 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:41 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:41 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:41 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:41 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:41 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:41 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:42 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:42 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:42 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:42 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:42 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:43 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:43 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:24:43 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:24:43 [error] 331#331: *260 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:26:46 [notice] 334#334: signal process started
+2020/06/26 18:26:47 [notice] 339#339: signal process started
+2020/06/26 18:26:53 [error] 340#340: *289 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:26:53 [error] 340#340: *289 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:26:53 [error] 340#340: *289 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:26:53 [error] 340#340: *289 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:26:54 [error] 340#340: *289 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET / HTTP/1.1", upstream: "http://172.18.0.5:80/", host: "localhost"
+2020/06/26 18:26:54 [error] 340#340: *289 connect() failed (111: Connection refused) while connecting to upstream, client: 172.18.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", upstream: "http://172.18.0.5:80/favicon.ico", host: "localhost", referrer: "http://localhost/"
+2020/06/26 18:26:56 [notice] 344#344: signal process started
+2020/06/26 18:26:56 [notice] 349#349: signal process started
+2020/06/26 18:27:37 [notice] 354#354: signal process started
+2020/06/26 18:27:37 [notice] 359#359: signal process started
+2020/06/26 18:27:39 [notice] 364#364: signal process started
+2020/06/27 13:25:05 [notice] 38#38: signal process started
+2020/07/01 07:38:05 [notice] 44#44: signal process started
+2020/07/01 07:38:09 [notice] 53#53: signal process started
+2020/07/01 07:38:52 [notice] 79#79: signal process started
+2020/07/01 07:39:03 [notice] 85#85: signal process started
+2020/07/01 07:39:03 [notice] 93#93: signal process started
+2020/07/01 07:39:04 [notice] 99#99: signal process started
+2020/07/01 07:39:04 [notice] 105#105: signal process started
+2020/07/01 07:39:05 [notice] 111#111: signal process started
+2020/07/01 07:39:05 [notice] 117#117: signal process started
+2020/07/01 07:39:05 [notice] 123#123: signal process started
+2020/07/01 07:39:06 [notice] 129#129: signal process started
+2020/07/01 07:39:06 [notice] 135#135: signal process started
+2020/07/01 07:39:08 [notice] 141#141: signal process started
+2020/07/01 07:39:08 [notice] 147#147: signal process started
+2020/07/01 07:39:10 [notice] 153#153: signal process started
+2020/07/01 07:39:10 [notice] 159#159: signal process started
+2020/07/01 07:39:14 [notice] 165#165: signal process started
+2020/07/01 07:39:14 [notice] 171#171: signal process started
+2020/07/01 07:39:21 [notice] 177#177: signal process started
+2020/07/01 07:39:21 [notice] 183#183: signal process started
+2020/07/01 07:39:26 [notice] 190#190: signal process started
+2020/07/01 07:39:34 [notice] 197#197: signal process started
+2020/07/01 07:39:34 [notice] 203#203: signal process started
+2020/07/01 07:40:00 [notice] 209#209: signal process started
+2020/07/01 07:40:00 [notice] 215#215: signal process started
+2020/07/01 07:40:34 [notice] 221#221: signal process started
+2020/07/01 07:40:34 [notice] 227#227: signal process started
+2020/07/01 07:41:54 [notice] 233#233: signal process started
+2020/07/01 07:41:57 [notice] 238#238: signal process started
+2020/07/01 07:46:39 [notice] 243#243: signal process started
+2020/07/01 07:46:39 [notice] 248#248: signal process started
+2020/07/01 07:46:40 [notice] 253#253: signal process started
+2020/07/01 07:53:53 [notice] 258#258: signal process started
+2020/07/01 07:53:54 [notice] 263#263: signal process started
+2020/07/01 07:55:36 [notice] 268#268: signal process started
+2020/07/01 07:55:36 [notice] 273#273: signal process started
+2020/07/01 07:55:36 [notice] 278#278: signal process started
+2020/07/01 07:59:01 [notice] 283#283: signal process started
+2020/07/01 07:59:01 [notice] 288#288: signal process started
+2020/07/01 07:59:01 [notice] 293#293: signal process started
+2020/07/01 08:00:15 [notice] 298#298: signal process started
+2020/07/01 08:00:27 [notice] 303#303: signal process started
+2020/07/01 08:00:28 [notice] 308#308: signal process started
+2020/07/01 08:06:06 [notice] 313#313: signal process started
+2020/07/01 08:06:06 [notice] 318#318: signal process started
+2020/07/01 08:06:07 [notice] 323#323: signal process started
+2020/07/01 08:12:23 [notice] 328#328: signal process started
+2020/07/01 08:13:50 [notice] 333#333: signal process started
+2020/07/01 08:14:10 [notice] 338#338: signal process started
+2020/07/01 08:14:56 [notice] 343#343: signal process started
+2020/07/01 08:15:16 [notice] 348#348: signal process started
+2020/07/01 08:15:16 [notice] 353#353: signal process started
+2020/07/01 08:16:06 [notice] 358#358: signal process started
+2020/07/01 08:16:07 [notice] 363#363: signal process started
+2020/07/01 08:16:51 [notice] 368#368: signal process started
+2020/07/01 08:16:52 [notice] 373#373: signal process started
+2020/07/01 08:17:18 [notice] 378#378: signal process started
+2020/07/01 08:17:19 [notice] 383#383: signal process started
+2020/07/01 08:17:19 [notice] 388#388: signal process started
+2020/07/01 08:20:21 [notice] 393#393: signal process started
+2020/07/01 08:20:46 [notice] 398#398: signal process started
+2020/07/01 08:23:23 [notice] 403#403: signal process started
+2020/07/01 08:23:23 [notice] 408#408: signal process started
+2020/07/01 08:23:48 [notice] 413#413: signal process started
+2020/07/01 08:23:49 [notice] 418#418: signal process started
+2020/07/01 08:25:10 [notice] 423#423: signal process started
+2020/07/01 08:25:11 [notice] 428#428: signal process started
+2020/07/01 08:25:54 [notice] 433#433: signal process started
+2020/07/01 08:25:55 [notice] 438#438: signal process started
+2020/07/01 08:26:16 [notice] 443#443: signal process started
+2020/07/01 08:26:17 [notice] 448#448: signal process started
+2020/07/01 08:26:38 [notice] 453#453: signal process started
+2020/07/01 08:26:39 [notice] 458#458: signal process started
+2020/07/01 08:33:08 [notice] 463#463: signal process started
+2020/07/01 08:33:19 [notice] 468#468: signal process started
+2020/07/01 08:50:45 [notice] 473#473: signal process started
+2020/07/01 08:50:46 [notice] 478#478: signal process started
+2020/07/01 08:54:43 [notice] 483#483: signal process started
+2020/07/01 08:54:43 [notice] 488#488: signal process started
+2020/07/01 08:54:43 [notice] 493#493: signal process started
+2020/07/01 08:55:00 [notice] 498#498: signal process started
+2020/07/01 08:55:01 [notice] 503#503: signal process started
+2020/07/02 11:43:16 [notice] 38#38: signal process started
+2020/07/02 11:43:20 [notice] 52#52: signal process started
+2020/07/02 11:43:45 [notice] 79#79: signal process started
+2020/07/02 14:13:59 [notice] 40#40: signal process started
+2020/07/02 14:15:22 [notice] 66#66: signal process started
+2020/07/02 14:15:37 [notice] 71#71: signal process started
+2020/07/02 14:31:10 [notice] 41#41: signal process started
+2020/07/02 14:39:55 [notice] 44#44: signal process started
+2020/07/02 14:39:58 [notice] 53#53: signal process started
+2020/07/02 14:40:02 [notice] 81#81: signal process started
+2020/07/02 14:40:04 [notice] 87#87: signal process started
+2020/07/02 14:40:21 [notice] 94#94: signal process started
+2020/07/02 14:40:37 [notice] 100#100: signal process started
+2020/07/02 14:43:51 [notice] 127#127: signal process started
+2020/07/02 14:45:18 [notice] 133#133: signal process started
+2020/07/02 14:45:20 [notice] 138#138: signal process started
+2020/07/02 14:45:45 [notice] 143#143: signal process started
+2020/07/02 14:46:14 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:17 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:18 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:18 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:19 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:19 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:19 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:21 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:46:22 [error] 144#144: *4 no live upstreams while connecting to upstream, client: 192.168.96.1, server: api.localhost, request: "GET /test/ HTTP/1.1", upstream: "http://api.localhost/test/", host: "api.localhost"
+2020/07/02 14:48:46 [notice] 148#148: signal process started
+2020/07/02 14:48:48 [notice] 153#153: signal process started
+2020/07/02 14:48:55 [notice] 158#158: signal process started
+2020/07/02 14:48:59 [notice] 163#163: signal process started
+2020/07/02 14:48:59 [notice] 168#168: signal process started
+2020/07/02 14:49:07 [notice] 175#175: signal process started
+2020/07/02 14:49:08 [notice] 180#180: signal process started
+2020/07/02 14:49:09 [notice] 185#185: signal process started
+2020/07/02 14:51:04 [notice] 190#190: signal process started
+2020/07/02 14:51:05 [notice] 195#195: signal process started
+2020/07/02 14:51:50 [notice] 200#200: signal process started
+2020/07/02 14:51:50 [notice] 205#205: signal process started
+2020/07/02 14:56:24 [notice] 210#210: signal process started
+2020/07/02 14:56:25 [notice] 215#215: signal process started
+2020/07/02 15:04:32 [notice] 220#220: signal process started
+2020/07/02 15:04:32 [notice] 225#225: signal process started
+2020/07/02 15:05:56 [notice] 230#230: signal process started
+2020/07/02 15:05:57 [notice] 235#235: signal process started
+2020/07/02 15:06:40 [notice] 240#240: signal process started
+2020/07/02 15:06:41 [notice] 245#245: signal process started
+2020/07/02 15:12:33 [notice] 250#250: signal process started
+2020/07/02 15:12:34 [notice] 255#255: signal process started
+2020/07/03 13:07:20 [notice] 38#38: signal process started
+2020/07/03 13:07:21 [notice] 47#47: signal process started
+2020/07/03 13:07:22 [notice] 53#53: signal process started
+2020/07/03 13:07:22 [notice] 59#59: signal process started
+2020/07/03 13:07:23 [notice] 65#65: signal process started
+2020/07/03 13:07:23 [notice] 71#71: signal process started
+2020/07/03 13:07:28 [notice] 79#79: signal process started
+2020/07/03 13:07:29 [notice] 85#85: signal process started
+2020/07/03 13:07:33 [notice] 91#91: signal process started
+2020/07/03 13:07:39 [notice] 97#97: signal process started
+2020/07/03 13:07:39 [notice] 103#103: signal process started
+2020/07/03 13:07:52 [notice] 109#109: signal process started
+2020/07/03 13:07:53 [notice] 115#115: signal process started
+2020/07/03 13:08:18 [notice] 121#121: signal process started
+2020/07/03 13:08:19 [notice] 127#127: signal process started
+2020/07/03 13:09:10 [notice] 133#133: signal process started
+2020/07/03 13:09:10 [notice] 139#139: signal process started
+2020/07/03 13:10:10 [notice] 145#145: signal process started
+2020/07/03 13:10:11 [notice] 150#150: signal process started

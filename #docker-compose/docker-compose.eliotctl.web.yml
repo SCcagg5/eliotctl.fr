@@ -1,0 +1,49 @@
+version: '3'
+networks:
+   db-net:
+     internal: true
+   proxy:
+     external:
+       name: docker-compose_proxy
+
+services:
+   landing:
+      image: nginx
+      container_name: landing
+      restart: always
+      volumes:
+        - ../Eliotctl/landing/frontend:/usr/share/nginx/html:ro
+        - ../Eliotctl/landing/conf/landing.conf:/etc/nginx/conf.d/default.conf:ro
+      links:
+        - error
+        - php
+      networks:
+        - proxy
+      environment:
+        VIRTUAL_HOST: ${DOMAIN}
+        VIRTUAL_PORT: 80
+        LETSENCRYPT_HOST: ${DOMAIN}
+        LETSENCRYPT_EMAIL: ${EMAIL}
+
+   php:
+      image: php:fpm-alpine
+      container_name: php
+      volumes:
+        - ../Eliotctl/landing/frontend:/script:ro
+        - ../Eliotctl/admin/services/contact:/result
+      networks:
+        - proxy
+
+
+   error:
+      image: nginx
+      container_name: error
+      restart: always
+      volumes:
+        - ../Eliotctl/error/front:/usr/share/nginx/html:ro
+        - ../Eliotctl/error/conf/error.conf:/etc/nginx/conf.d/default.conf:ro
+      networks:
+        - proxy
+
+volumes:
+  db:
