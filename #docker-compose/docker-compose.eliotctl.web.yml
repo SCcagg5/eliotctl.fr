@@ -29,11 +29,10 @@ services:
       image: php:fpm-alpine
       container_name: php
       volumes:
-        - ../Eliotctl/landing/frontend:/script:ro
+        - ../Eliotctl/landing/frontend:/usr/share/nginx/html:ro
         - ../Eliotctl/admin/services/contact:/result
       networks:
         - proxy
-
 
    error:
       image: nginx
