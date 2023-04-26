@@ -28,6 +28,7 @@ services:
         context: ../php
         dockerfile: Dockerfile
       container_name: eliotctl_php
+      hostname: ${DOMAIN}
       volumes:
         - ../Eliotctl/landing/frontend:/usr/share/nginx/html:ro
         - ../Eliotctl/admin/services/contact:/result
