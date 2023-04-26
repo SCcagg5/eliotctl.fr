@@ -24,7 +24,9 @@ services:
         LETSENCRYPT_EMAIL: ${EMAIL}
 
    eliotctl_php:
-      image: php:fpm-alpine
+      build:
+        context: ../php
+        dockerfile: Dockerfile
       container_name: eliotctl_php
       volumes:
         - ../Eliotctl/landing/frontend:/usr/share/nginx/html:ro
