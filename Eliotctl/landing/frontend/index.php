@@ -143,7 +143,18 @@
               <h2>Business contact only</h2>
               <div class="work-request">
                 <div class="work-request--options">
-                  <span class="options-a">
+		  <span class="options-a">
+			  <input type="text" style="display: block;
+			    width: 200px;
+			    margin-bottom: 30px;
+			    line-height: 50px;
+			    font-size: 16px;
+			    font-weight: 700;
+			    text-align: center;
+			    background-color: transparent;border: 2px solid #fff;
+			    cursor: pointer;outline: none;">
+		  </span>
+                  <span class="options-b">
                     <input id="opt-1" type="checkbox" value="Web" onchange="update_mail()">
                     <label for="opt-1">
                       <svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -175,7 +186,7 @@
                       Data analysis
                     </label>
                   </span>
-		  <input type="text">
+		  
                 </div>
                 <a id="contact_button" href="mailto:eliot@newtechstack.fr?subject=[eliotctl.fr]" style="text-align: center; text-decoration: none; color: white">Send a work request</a>
                 </div>
