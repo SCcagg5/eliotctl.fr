@@ -175,7 +175,7 @@
                       Data analysis
                     </label>
                   </span>
-		  <input>
+		  <input type="text">
                 </div>
                 <a id="contact_button" href="mailto:eliot@newtechstack.fr?subject=[eliotctl.fr]" style="text-align: center; text-decoration: none; color: white">Send a work request</a>
                 </div>
