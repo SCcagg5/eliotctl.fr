@@ -16,8 +16,12 @@
   <!-- notification for small viewports and landscape oriented smartphones -->
   <div class="device-notification">
     <a class="device-notification--logo" href="/" style="margin-left: calc(50vw - 50px);margin-top: calc(50vh - 50px);">
-    <p>Eliotctl.fr</p><img src="assets/img/logo.webp" style="width: 68px; z-index: -1; position: relative; left: -87px;" alt="Welcome"></a>
-    <p class="device-notification--message" style="width: 100%">Looks like your unable to load this website on this device</p>
+      <p>Eliotctl.fr</p>
+      <img src="assets/img/logo.webp" style="width: 68px; z-index: -1; position: relative; left: -87px;" alt="logo">
+    </a>
+    <p class="device-notification--message" style="width: 100%">
+      Looks like your unable to load this website on this device
+    </p>
   </div>
   <div class="perspective effect-rotate-left">
     <div class="containerp">
