@@ -152,7 +152,7 @@
             <li class="l-section section" id="contact">
               <div class="hire">
                 <h2>Business contact only</h2>
-                  <form class="work-request" id="not_sent" method="post" action="./test.php" name="not_sent">
+                  <form class="work-request" id="not_sent" method="post" action="#contact" name="not_sent">
                     <div class="work-request--options">
                       <span class="options-a">
                         <input id="emailinput" name="emailinput" type="text" oninput="update_mail()" placeholder="Your email" style="display: block; width: 300px; margin-bottom: 30px; line-height: 50px; font-size: 16px; font-weight: 700; text-align: center; background-color: transparent;border: 2px solid #fff; cursor: pointer;outline: none; margin-left: calc(50% - 150px)" />
