@@ -34,6 +34,8 @@ services:
         - ../Eliotctl/admin/services/contact:/result
       networks:
         - proxy
+      environment:
+        CONTACTEMAIL: ${CONTACTEMAIL}
 
    eliotctl_error:
       image: nginx
