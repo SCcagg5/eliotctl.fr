@@ -21,8 +21,9 @@
     $message .= (isset($_POST["opt-1"]) ? $_POST["opt-1"] : "") . (isset($_POST["opt-2"]) ? $_POST["opt-2"] : "") . (isset($_POST["opt-3"]) ? $_POST["opt-3"] : "");
     $file = '/contact.txt';
     $handle = fopen($file, 'a');
-    fwrite($handle, $maVariable . PHP_EOL);
-    fclose($handle);   
+    fwrite($handle, $message . PHP_EOL);
+    fclose($handle);
+    unset($_POST);
 }
 ?>
   <!-- notification for small viewports and landscape oriented smartphones -->
