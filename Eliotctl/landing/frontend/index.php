@@ -31,7 +31,11 @@
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/plain; charset=ISO-8859-1\r\n";
     echo $email . "}";
-    echo mail($to_email, $subject, $message, $headers);
+    if(mail($to_email, $subject, $message, $headers)) {
+      echo "top";
+    } else {
+      echo "nop";
+    }
 }
 ?>
   <!-- notification for small viewports and landscape oriented smartphones -->
