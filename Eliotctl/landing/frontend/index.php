@@ -16,8 +16,8 @@
 <body style="opacity: 0">
   <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["emailinput"])) {
-    $message = "Email: " . $_POST["emailinput"] . "\n\n";
-    $message .= "Project type(s): \n";
+    $message = "Email: " . $_POST["emailinput"];
+    $message .= "Project type(s):";
     $message .= (isset($_POST["opt-1"]) ? $_POST["opt-1"] : "") . (isset($_POST["opt-2"]) ? $_POST["opt-2"] : "") . (isset($_POST["opt-3"]) ? $_POST["opt-3"] : "");
     $file = '/contact.txt';
     $handle = fopen($file, 'a');
