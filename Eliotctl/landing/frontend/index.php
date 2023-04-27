@@ -77,9 +77,10 @@
                   </button> 
                   <img src="assets/img/home.svg" alt="Welcome" />
                 </div>
+<!--
                 <div class="intro--options">
                   <a href="#projects" onclick="scrollTozone('#projects')">
-                    <h3>WebApps</h3>
+                    <h3></h3>
                     <p>
                       Front & Backend,<br/>
                       Creating custom solution
@@ -92,7 +93,8 @@
                     <p>Chat bot, Data Science<br/>
                     Amplify your customer experience</p>
                   </a>
-                </div>
+                </div> 
+-->
               </div>
             </li>
             <li class="l-section section" id="why">
