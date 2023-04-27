@@ -142,56 +142,57 @@
             <div class="hire">
               <h2>Business contact only</h2>
               <div class="work-request">
-                <div class="work-request--options">
-                  <form id="not_sent" method="post" action="#contact">
-		  <span class="options-a">
-			  <input type="text" style="display: block;
-			    width: 300px;
-			    margin-bottom: 30px;
-			    line-height: 50px;
-			    font-size: 16px;
-			    font-weight: 700;
-			    text-align: center;
-			    background-color: transparent;border: 2px solid #fff;
-			    cursor: pointer;outline: none;
-			    margin-left: calc(50% - 150px)">
-		  </span>
-                  <span class="options-b">
-                    <input id="opt-1" type="checkbox" value="Web" onchange="update_mail()">
-                    <label for="opt-1">
-                      <svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                      viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
-                      <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
-                        <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
-                      </g>
-                      </svg>
-                      Web App
-                    </label>
-                    <input id="opt-2" type="checkbox" value="Backend" onchange="update_mail()">
-                    <label for="opt-2">
-                      <svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                      viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
-                      <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
-                        <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
-                      </g>
-                      </svg>
-                      Backend
-                    </label>
-                    <input id="opt-3" type="checkbox" value="Data analysis" onchange="update_mail()">
-                    <label for="opt-3">
-                      <svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                      viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
-                      <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
-                        <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
-                      </g>
-                      </svg>
-                      Data analysis
-                    </label>
-                  </span>
-		  
-                </div>
-                <a id="contact_button" href="mailto:eliot@newtechstack.fr?subject=[eliotctl.fr]" style="text-align: center; text-decoration: none; color: white">Send a work request</a>
-                </div>
+		<form id="not_sent" method="post" action="#contact">
+			<div class="work-request--options">
+
+			  <span class="options-a">
+				  <input type="text" style="display: block;
+				    width: 300px;
+				    margin-bottom: 30px;
+				    line-height: 50px;
+				    font-size: 16px;
+				    font-weight: 700;
+				    text-align: center;
+				    background-color: transparent;border: 2px solid #fff;
+				    cursor: pointer;outline: none;
+				    margin-left: calc(50% - 150px)">
+			  </span>
+			  <span class="options-b">
+			    <input id="opt-1" type="checkbox" value="Web" onchange="update_mail()">
+			    <label for="opt-1">
+			      <svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+			      viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
+			      <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
+				<path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
+			      </g>
+			      </svg>
+			      Web App
+			    </label>
+			    <input id="opt-2" type="checkbox" value="Backend" onchange="update_mail()">
+			    <label for="opt-2">
+			      <svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+			      viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
+			      <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
+				<path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
+			      </g>
+			      </svg>
+			      Backend
+			    </label>
+			    <input id="opt-3" type="checkbox" value="Data analysis" onchange="update_mail()">
+			    <label for="opt-3">
+			      <svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+			      viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
+			      <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
+				<path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"/>
+			      </g>
+			      </svg>
+			      Data analysis
+			    </label>
+			  </span>
+
+			</div>
+			<a id="contact_button" href="mailto:eliot@newtechstack.fr?subject=[eliotctl.fr]" style="text-align: center; text-decoration: none; color: white">Send a work request</a>
+			</div>
                 </form>
                 <div style="margin-top: 20px; text-align:center; color: white">For any other request see:<a style="margin-left: 5px; color: white" href="https://newtechstack.fr">NewTechStack.fr</a>
                 </div>
