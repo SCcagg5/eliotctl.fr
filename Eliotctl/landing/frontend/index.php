@@ -179,6 +179,7 @@
     if (!emailRegex.test(input.value)) {
       if (input.value != void 0) {
         input.style.borderColor = "red";
+        console.log(input.value);
       } else {
         input.style.borderColor = "white";
       }
