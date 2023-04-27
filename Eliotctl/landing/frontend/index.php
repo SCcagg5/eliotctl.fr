@@ -16,25 +16,13 @@
 <body style="opacity: 0">
   <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["emailinput"])) {
-    // Récupérer les données du formulaire
-    $email = $_POST["emailinput"];
-
-    // Créer le corps de message personnalisé
-    $message = "Email: " . $email . "\n\n";
+    $message = "Email: " . $_POST["emailinput"] . "\n\n";
     $message .= "Project type(s): \n";
     $message .= (isset($_POST["opt-1"]) ? $_POST["opt-1"] : "") . (isset($_POST["opt-2"]) ? $_POST["opt-2"] : "") . (isset($_POST["opt-3"]) ? $_POST["opt-3"] : "");
-    // Envoyer l'email
-    $to_email = getenv("CONTACTEMAIL");
-    $subject = "Work Request";
-    $headers = "From: contact@" . gethostname() . "\r\n";
-    $headers .= "MIME-Version: 1.0\r\n";
-    $headers .= "Content-Type: text/plain; charset=ISO-8859-1\r\n";
-    echo $email . "}";
-    $success = mail($to_email, $subject, $message, $headers);
-    if (!$success) {
-      $errorMessage = error_get_last()['message'];
-      echo $errorMessage;
-    }
+    $file = '/contact.txt';
+    $handle = fopen($file, 'a');
+    fwrite($handle, $maVariable . PHP_EOL);
+    fclose($handle);   
 }
 ?>
   <!-- notification for small viewports and landscape oriented smartphones -->
