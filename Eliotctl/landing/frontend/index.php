@@ -134,7 +134,7 @@
                   <form class="work-request" id="not_sent" method="post" action="#contact" name="not_sent">
                     <div class="work-request--options">
                       <span class="options-a">
-                        <input id="emailinput" type="text" onblur="update_mail()" placeholder="Your email" style="display: block; width: 300px; margin-bottom: 30px; line-height: 50px; font-size: 16px; font-weight: 700; text-align: center; background-color: transparent;border: 2px solid #fff; cursor: pointer;outline: none; margin-left: calc(50% - 150px)" />
+                        <input id="emailinput" type="text" onchange="update_mail()" placeholder="Your email" style="display: block; width: 300px; margin-bottom: 30px; line-height: 50px; font-size: 16px; font-weight: 700; text-align: center; background-color: transparent;border: 2px solid #fff; cursor: pointer;outline: none; margin-left: calc(50% - 150px)" />
                       </span>
                       <span class="options-b"><input id="opt-1" type="checkbox" value="Web" onchange="update_mail()" /> <label for="opt-1"><svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
                       <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
@@ -147,7 +147,7 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"></path>
                       </g></svg> Data analysis</label></span>
                     </div>
-                    <button id="contact_button" style="text-align: center; text-decoration: none; color: white">Send a work request</button>
+                    <button id="contact_button" style="text-align: center; text-decoration: none; color: white" disabled>Send a work request</button>
                   </form>
                 <div style="margin-top: 20px; text-align:center; color: white">
                   For any other request see:<a style="margin-left: 5px; color: white" href="https://newtechstack.fr">NewTechStack.fr</a>
@@ -175,16 +175,17 @@
     const emailRegex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 
     const input = document.getElementById("emailinput");
-    if (emailRegex.test(input.value)) { 
-      input.style.borderColor = "#0f33ff";   
-    }else{
+    if (!emailRegex.test(input.value)) { 
       input.style.borderColor = "red";
+      document.querySelector("#contact_button").disabled = true;
+      return;
     }
+    input.style.borderColor = "#0f33ff";
     inputs = document.querySelectorAll(".work-request--options input:checked");
     for (i = 0; i < inputs.length; i++) {
-      
+      console.log(inputs[i].value)
     }
-    document.querySelector("#contact_button").href = base;
+    document.querySelector("#contact_button").disabled = false;
   }
 
   function scrollTozone(hash) {
