@@ -160,16 +160,16 @@
                               <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"></path>
                             </g>
                           </svg> 
-                          Web App
+                          Consulting
                         </label> 
                         <input id="opt-2" type="checkbox" name="opt-2" value="opt-2" onchange="update_mail()" /> 
                         <label for="opt-2"><svg version="1.1" id="Layer_5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
                       <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"></path>
-                      </g></svg> Backend</label> <input id="opt-3" type="checkbox" name="opt-3" value="opt-3" onchange="update_mail()" /> <label for="opt-3"><svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
+                      </g></svg>Coding</label> <input id="opt-3" type="checkbox" name="opt-3" value="opt-3" onchange="update_mail()" /> <label for="opt-3"><svg version="1.1" id="Layer_6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
                       <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"></path>
-                      </g></svg> Data analysis</label></span>
+                      </g></svg>Teaching</label></span>
                     </div>
                     <button id="contact_button" type="submit"disabled>Send a work request</button>
                   </form>
