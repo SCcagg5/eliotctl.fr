@@ -177,7 +177,7 @@
     const input = document.getElementById("emailinput");
     
     if (!emailRegex.test(input.value)) {
-      if (input.value != void 0) {
+      if (input.value.length > 0) {
         input.style.borderColor = "red";
         console.log(input.value);
       } else {
