@@ -175,7 +175,7 @@
     const emailRegex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 
     const input = document.getElementById("emailinput");
-    if (emailRegex.test(emailValue)) { 
+    if (emailRegex.test(input.value)) { 
       input.style.borderColor = "#0f33ff";   
     }else{
       input.style.borderColor = "red";
