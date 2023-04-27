@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
   <title>Eliot Courtel</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="Eliot Courtel, Freelance &amp; Innovation">
-  <meta name="keywords" content="eliot courtel, developper, freelance, kubernetes, elasticsearch, python, bigdata, dialogflow, docker, devops, sigfox, wellcheck, nodejs, vuejs">
-  <link rel="icon" href="assets/img/logo.webp">
-  <link rel="stylesheet" href="assets/css/main.css">
-  <link rel="stylesheet" href="assets/css/bootstrap-grid.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="description" content="Eliot Courtel, Freelance &amp; Innovation" />
+  <meta name="keywords" content="eliot courtel, developper, freelance, kubernetes, elasticsearch, python, bigdata, dialogflow, docker, devops, sigfox, wellcheck, nodejs, vuejs" />
+  <link rel="icon" href="assets/img/logo.webp" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <link rel="stylesheet" href="assets/css/bootstrap-grid.css" />
   <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 <body style="opacity: 0">
