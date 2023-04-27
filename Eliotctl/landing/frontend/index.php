@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +14,26 @@
   <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 <body style="opacity: 0">
+  <?php
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Récupérer les données du formulaire
+    $email = $_POST["emailinput"];
+    
+
+    // Créer le corps de message personnalisé
+    $message = "Email: " . $email . "\n\n";
+    $message .= "Project type(s): \n";
+    $message .= (isset($_POST["opt-1"]) ? $_POST["opt-1"] : "") . (isset($_POST["opt-2"]) ? $_POST["opt-2"] : "") . (isset($_POST["opt-3"]) ? $_POST["opt-3"] : "");
+  
+    // Envoyer l'email
+    $to_email = getenv("CONTACTEMAIL");
+    $subject = "Work Request";
+    $headers = "From: contact@" . gethostname() . "\r\n";
+    $headers .= "MIME-Version: 1.0\r\n";
+    $headers .= "Content-Type: text/plain; charset=ISO-8859-1\r\n";
+    echo mail($to_email, $subject, $message, $headers);
+}
+?>
   <!-- notification for small viewports and landscape oriented smartphones -->
   <div class="device-notification">
     <a class="device-notification--logo" href="/" style="margin-left: calc(50vw - 50px);margin-top: calc(50vh - 50px);">
