@@ -146,7 +146,7 @@
             </li>
             <li class="l-section section" id="contact">
               <div class="hire">
-                <h2>Business contact only</h2>
+                <h2>Business <span style="color:#0f33ff">contact</span> only</h2>
                   <form class="work-request" id="not_sent" method="post" action="#contact" name="not_sent">
                     <div class="work-request--options">
                       <span class="options-a">
