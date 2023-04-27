@@ -75,7 +75,7 @@
                     </svg>
                     <div class="btn-background"></div>
                   </button> 
-                  <img src="assets/img/test1.webp" alt="Welcome" />
+                  <img src="assets/img/home.svg" alt="Welcome" />
                 </div>
                 <div class="intro--options">
                   <a href="#projects" onclick="scrollTozone('#projects')">
