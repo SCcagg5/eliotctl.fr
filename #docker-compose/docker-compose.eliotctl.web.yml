@@ -31,7 +31,7 @@ services:
       hostname: ${DOMAIN}
       volumes:
         - ../Eliotctl/landing/frontend:/usr/share/nginx/html:ro
-        - ../Eliotctl/landing/contact/contact.txt:/contact.txt
+        - ../Eliotctl/landing/contact/contact.txt:/contact.txt:rw
       networks:
         - proxy
       environment:
