@@ -143,6 +143,7 @@
               <h2>Business contact only</h2>
               <div class="work-request">
                 <div class="work-request--options">
+                  <form id="not_sent" method="post" action="#contact">
 		  <span class="options-a">
 			  <input type="text" style="display: block;
 			    width: 300px;
@@ -191,7 +192,9 @@
                 </div>
                 <a id="contact_button" href="mailto:eliot@newtechstack.fr?subject=[eliotctl.fr]" style="text-align: center; text-decoration: none; color: white">Send a work request</a>
                 </div>
-                <div style="margin-top: 20px; text-align:center; color: white">For any other request see:<a style="margin-left: 5px; color: white" href="https://newtechstack.fr">NewTechStack.fr</a></div>
+                </form>
+                <div style="margin-top: 20px; text-align:center; color: white">For any other request see:<a style="margin-left: 5px; color: white" href="https://newtechstack.fr">NewTechStack.fr</a>
+                </div>
             </div>
           </li>
         </ul>
@@ -211,12 +214,11 @@
 <script>
 
 function update_mail(){
-    let base = "mailto:eliot@newtechstack.fr?subject=[eliotctl.fr";
+    
     inputs = document.querySelectorAll(".work-request--options input:checked");
     for (i = 0; i < inputs.length; i++) {
-      base += "|" + inputs[i].value
+      
     }
-    base += "]";
     document.querySelector("#contact_button").href = base;
 }
 
