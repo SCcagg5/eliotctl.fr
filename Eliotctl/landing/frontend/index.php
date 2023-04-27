@@ -147,7 +147,7 @@
                         <path d="M950,705L555,310L360,505C253,612,160,700,155,700c-6,0-44-34-85-75l-75-75l278-278L550-5l475,475c261,261,475,480,475,485c0,13-132,145-145,145C1349,1100,1167,922,950,705z"></path>
                       </g></svg> Data analysis</label></span>
                     </div>
-                    <button id="contact_button" style="text-align: center; text-decoration: none; color: white" disabled>Send a work request</button>
+                    <button id="contact_button" disabled>Send a work request</button>
                   </form>
                 <div style="margin-top: 20px; text-align:center; color: white">
                   For any other request see:<a style="margin-left: 5px; color: white" href="https://newtechstack.fr">NewTechStack.fr</a>
