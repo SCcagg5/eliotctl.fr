@@ -34,7 +34,7 @@
               <img src="assets/img/logo.webp" style="width: 69px;position: absolute;z-index: -1;left: 16px;" alt="logo" />
             </a> 
             <button class="header--cta cta">Contact me</button>
-            <div class="header--nav-toggle"></div>
+            <div class="header--nav-toggle"><span></span></div>
           </header>
           <nav class="l-side-nav">
             <ul class="side-nav">
