@@ -170,9 +170,11 @@
                     </div>
                     <button id="contact_button" type="submit"disabled>Send a work request</button>
                   </form>
-                <div style="margin-top: 20px; text-align:center; color: white">
-                  For any other request see:<a style="margin-left: 5px; color: white" href="https://newtechstack.fr">NewTechStack.fr</a>
-                </div>
+                  <!--
+                    <div style="margin-top: 20px; text-align:center; color: white">
+                      For any other request see:<a style="margin-left: 5px; color: white" href="https://newtechstack.fr">NewTechStack.fr</a>
+                    </div>
+                  -->
               </div>
             </li>
           </ul>
