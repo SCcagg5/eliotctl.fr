@@ -15,10 +15,9 @@
 </head>
 <body style="opacity: 0">
   <?php
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["emailinput"])) {
     // Récupérer les données du formulaire
     $email = $_POST["emailinput"];
-    
 
     // Créer le corps de message personnalisé
     $message = "Email: " . $email . "\n\n";
@@ -31,10 +30,10 @@
     $headers .= "MIME-Version: 1.0\r\n";
     $headers .= "Content-Type: text/plain; charset=ISO-8859-1\r\n";
     echo $email . "}";
-    if(mail($to_email, $subject, $message, $headers)) {
-      echo "top";
-    } else {
-      echo "nop";
+    $success = mail($to_email, $subject, $message, $headers);
+    if (!$success) {
+      $errorMessage = error_get_last()['message'];
+      echo $errorMessage;
     }
 }
 ?>
