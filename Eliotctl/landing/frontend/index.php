@@ -86,8 +86,8 @@
                 <div class="about--banner">
                   <h2>
                     New<br/>
-                    Technologies<br>
-                    based on<br>
+                    Technologies<br/>
+                    based on<br/>
                     your needs
                   </h2>
                   <img src="assets/img/about-visual.webp" alt="About Us" />
@@ -102,13 +102,13 @@
                   <ul class="slider">
                     <li class="slider--item slider--item-center">
                       <a href="https://wellcheck.cloud">
-                      <div class="slider--item-image"><img src="assets/img/logo_v2.webp" alt="Wellcheck"></div>
+                      <div class="slider--item-image"><img src="assets/img/logo_v2.webp" alt="Wellcheck" /></div>
                       <p class="slider--item-title">Wellcheck</p>
                       <p class="slider--item-description">Wellcheck is a water quality analyser using 0G's IoT Network</p></a>
                     </li>
                     <li class="slider--item slider--item-right">
                       <a href="https://newtechstack.fr">
-                      <div class="slider--item-image"><img src="assets/img/nts_logo.webp" alt="Newtechstack logo"></div>
+                      <div class="slider--item-image"><img src="assets/img/nts_logo.webp" alt="Newtechstack logo" /></div>
                       <p class="slider--item-title">Newtechstack</p>
                       <p class="slider--item-description">We provide custom web solutions, support and IT professional training</p></a>
                     </li>
