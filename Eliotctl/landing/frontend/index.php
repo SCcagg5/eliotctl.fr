@@ -11,7 +11,6 @@
   <link rel="icon" href="assets/img/logo.webp" />
   <link rel="stylesheet" href="assets/css/main.css" />
   <link rel="stylesheet" href="assets/css/bootstrap-grid.css" />
-  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 </head>
 <body style="opacity: 0">
   <?php
@@ -192,7 +191,8 @@
     </ul>
   </div>
   <script src="assets/js/jquery.min.js"></script> 
-  <script src="assets/js/functions-min.js"></script> 
+  <script src="assets/js/functions-min.js"></script>
+  <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
   <script>
 
 
