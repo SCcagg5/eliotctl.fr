@@ -134,7 +134,7 @@
                   <form class="work-request" id="not_sent" method="post" action="#contact" name="not_sent">
                     <div class="work-request--options">
                       <span class="options-a">
-                        <input id="emailinput" type="text" onchange="update_mail('email')" placeholder="Your email" style="display: block; width: 300px; margin-bottom: 30px; line-height: 50px; font-size: 16px; font-weight: 700; text-align: center; background-color: transparent;border: 2px solid #fff; cursor: pointer;outline: none; margin-left: calc(50% - 150px)" />
+                        <input id="emailinput" type="text" oninput="update_mail()" placeholder="Your email" style="display: block; width: 300px; margin-bottom: 30px; line-height: 50px; font-size: 16px; font-weight: 700; text-align: center; background-color: transparent;border: 2px solid #fff; cursor: pointer;outline: none; margin-left: calc(50% - 150px)" />
                       </span>
                       <span class="options-b"><input id="opt-1" type="checkbox" value="Web" onchange="update_mail()" /> <label for="opt-1"><svg version="1.1" id="Layer_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
                       <g transform="translate(0.000000,111.000000) scale(0.100000,-0.100000)">
@@ -171,7 +171,7 @@
 
 
 
-  function update_mail(email = true){
+  function update_mail(){
     const emailRegex = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
 
     const input = document.getElementById("emailinput");
