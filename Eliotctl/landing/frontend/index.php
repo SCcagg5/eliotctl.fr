@@ -49,8 +49,8 @@
               <div class="intro">
                 <div class="intro--banner">
                   <h1>
-                    Innovative<br>
-                    devops<br>
+                    Innovative <br />
+                    devops <br />
                     work
                   </h1>
                   <button class="cta">
@@ -65,24 +65,33 @@
                 </div>
                 <div class="intro--options">
                   <a href="#projects" onclick="scrollTozone('#projects')">
-                  <h3>WebApps</h3>
-                  <p>Front & Backend,<br>
-                  Creating custom solution</p></a> <a href="#projects" onclick="scrollTozone('#projects')">
-                  <h3>Micro services</h3>
-                  <p>Creating containerisable solutions allowing scalability and continuous integration</p></a> <a href="#projects" onclick="scrollTozone('#projects')">
-                  <h3>New technologies</h3>
-                  <p>Chat bot, Data Science<br>
-                  Amplify your customer experience</p></a>
+                    <h3>WebApps</h3>
+                    <p>
+                      Front & Backend,<br/>
+                      Creating custom solution
+                    </p>
+                  </a> 
+                  <a href="#projects" onclick="scrollTozone('#projects')">
+                    <h3>Micro services</h3>
+                    <p>Creating containerisable solutions allowing scalability and continuous integration</p></a> <a href="#projects" onclick="scrollTozone('#projects')">
+                    <h3>New technologies</h3>
+                    <p>Chat bot, Data Science<br/>
+                    Amplify your customer experience</p>
+                  </a>
                 </div>
               </div>
             </li>
             <li class="l-section section" id="why">
               <div class="about">
                 <div class="about--banner">
-                <h2>New<br>
-                Technologies<br>
-                based on<br>
-                your needs</h2><img src="assets/img/about-visual.webp" alt="About Us"></div>
+                  <h2>
+                    New<br/>
+                    Technologies<br>
+                    based on<br>
+                    your needs
+                  </h2>
+                  <img src="assets/img/about-visual.webp" alt="About Us" />
+                </div>
                 <div class="about--text"></div>
               </div>
             </li>
