@@ -1,2 +1,0 @@
-| From | Message | IP | IP_FORWARDED | Date
-| - | - | - | - | - |
