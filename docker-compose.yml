@@ -30,7 +30,6 @@ services:
       - ./Proxy/logs/global:/var/log/nginx
       - ./Proxy/conf/:/etc/nginx/conf.d/
       - ./Proxy/vhost:/etc/nginx/vhost.d
-      - ./Proxy/passwd:/etc/nginx/htpasswd
       - ./Proxy/data/html:/usr/share/nginx/html
       - ./Proxy/data/certs:/etc/nginx/certs:ro
       - /var/run/docker.sock:/tmp/docker.sock:ro
@@ -56,7 +55,7 @@ services:
     container_name: router
     restart: always
     volumes:
-      - ./Router/router.conf:/etc/nginx/nginx.conf:ro
+      - ./Router/conf/router.conf:/etc/nginx/nginx.conf:ro
     links:
       - eliotctl_landing
       - wellcheck_landing
