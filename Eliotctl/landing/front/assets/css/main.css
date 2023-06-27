@@ -210,11 +210,11 @@ body{
 }
 .l-wrapper{
     position:relative;
-    min-width:1440px;
-    max-width:90%;
+    width:90%;
     height:100%;
     margin:0 auto
 }
+
 .l-side-nav{
     position:absolute;
     left:0;
