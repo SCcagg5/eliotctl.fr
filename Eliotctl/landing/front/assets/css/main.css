@@ -1116,9 +1116,9 @@ body{
     }
     .about--banner img{
         position: absolute;
-        height: 700px;
-        bottom: -615px;
-        right: -240px;
+        height: 70vh;
+        top: 24vh;
+        left: -10vw;
         transform: rotate(7deg);
     }
     .about--options{
