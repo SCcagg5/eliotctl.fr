@@ -13,16 +13,20 @@
 </head>
 <body style="opacity: 0">
   <?php
-    if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["emailinput"])) {
-    $message = "Email: " . $_POST["emailinput"];
+  if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["emailinput"])) {
+    $message = "Email: " . substr($_POST["emailinput"], 0, 60);
     $message .= "Project type(s):";
     $message .= (isset($_POST["opt-1"]) ? $_POST["opt-1"] : "") . (isset($_POST["opt-2"]) ? $_POST["opt-2"] : "") . (isset($_POST["opt-3"]) ? $_POST["opt-3"] : "");
-    $file = '/contact.txt';
-    $handle = fopen($file, 'a');
-    fwrite($handle, $message . PHP_EOL);
-    fclose($handle);
+    $file = '/contact/save.txt';
+
+    // Vérifier si le répertoire existe et est accessible en écriture
+    $directory = dirname($file);
+    if (!is_dir($directory) || !is_writable($directory)) {
+        exit;
+    }
+    @file_put_contents($file, $message . PHP_EOL, FILE_APPEND | LOCK_EX);
     unset($_POST);
-}
+  }
 ?>
   <!-- notification for small viewports and landscape oriented smartphones -->
   <div class="device-notification">
@@ -118,13 +122,13 @@
                   <ul class="slider">
                     <li class="slider--item slider--item-center">
                       <a href="/wellcheck/">
-                      <div class="slider--item-image"><img src="assets/img/logo_v2.webp" alt="Wellcheck" /></div>
+                      <div class="slider--item-image"><img src="assets/img/logo_v2.webp" alt="Wellcheck" width="300px" height="300px"/></div>
                       <p class="slider--item-title">Wellcheck</p>
                       <p class="slider--item-description">Wellcheck is a water quality analyser using 0G's IoT Network<br /><br />2019-2020<br /><b style="color: red">Discontinued</b> - open source</p></a>
                     </li>
                     <li class="slider--item slider--item-right">
                       <a href="/newtechstack/">
-                      <div class="slider--item-image"><img src="assets/img/nts_logo.webp" alt="Newtechstack logo" /></div>
+                      <div class="slider--item-image"><img src="assets/img/nts_logo.webp" alt="Newtechstack logo" width="150px" height="150px"/></div>
                       <p class="slider--item-title">Newtechstack</p>
                       <p class="slider--item-description">We provide custom web solutions, support and IT professional training<br /><br />2020-2023<br /><b style="color: red">Discontinued</b></p></a>
                     </li>

@@ -1,5 +1,5 @@
 Proxy/data
 Proxy/logs
-Proxy/conf/default.conf
-Proxy/vhost/
-Proxy/passwd/
+Proxy/vhost
+Proxy/passwd
+Router/logs

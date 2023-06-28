@@ -9,7 +9,7 @@ $( document ).ready(function() {
 
     if (!($('.outer-nav').hasClass('is-vis'))) {
 
-      e.preventDefault();
+
 
       var delta = (e.originalEvent.wheelDelta) ? -e.originalEvent.wheelDelta : e.originalEvent.detail * 20;
 
@@ -63,20 +63,12 @@ $( document ).ready(function() {
 
   });
 
-  // swipe support for touch devices
-  var targetElement = document.getElementById('viewport'),
-      mc = new Hammer(targetElement);
-  mc.get('swipe').set({ direction: Hammer.DIRECTION_VERTICAL });
-  mc.on('swipeup swipedown', function(e) {
 
-    updateHelper(e);
-
-  });
 
   $(document).keyup(function(e){
 
     if (!($('.outer-nav').hasClass('is-vis'))) {
-      e.preventDefault();
+
       updateHelper(e);
     }
 
