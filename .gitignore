@@ -4,3 +4,4 @@ Proxy/vhost
 Proxy/passwd
 Router/logs
 Eliotctl/landing/contact/save.txt
+.env
