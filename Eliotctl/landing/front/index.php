@@ -122,7 +122,7 @@
                   <ul class="slider">
                     <li class="slider--item slider--item-center">
                       <a href="/wellcheck/">
-                      <div class="slider--item-image"><img src="assets/img/logo_v2.webp" alt="Wellcheck" width="300px" height="300px"/></div>
+                      <div class="slider--item-image"><img src="assets/img/wellcheck_logo.webp" alt="Wellcheck" width="300px" height="300px"/></div>
                       <p class="slider--item-title">Wellcheck</p>
                       <p class="slider--item-description">Wellcheck is a water quality analyser using 0G's IoT Network<br /><br />2019-2020<br /><b style="color: red">Discontinued</b> - open source</p></a>
                     </li>
